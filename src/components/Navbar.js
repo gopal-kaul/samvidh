@@ -35,9 +35,9 @@ export default function Navbar() {
             setisOpen((state) => !state);
           }}
         >
-          <div class="w-8 h-1 bg-black/75"></div>
-          <div class="w-8 h-1 bg-black/75"></div>
-          <div class="w-8 h-1 bg-black/75"></div>
+          <div className="w-8 h-1 bg-black/75"></div>
+          <div className="w-8 h-1 bg-black/75"></div>
+          <div className="w-8 h-1 bg-black/75"></div>
         </div>
         <ul
           className={`md:hidden uppercase absolute left-0 top-[100%] ${
