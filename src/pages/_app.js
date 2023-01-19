@@ -1,6 +1,7 @@
 import "@/styles/globals.css";
 import Navbar from "@/components/Navbar";
 import localFont from "@next/font/local";
+import Footer from "@/components/Footer";
 const graphik = localFont({
   src: [
     {
@@ -87,6 +88,7 @@ export default function App({ Component, pageProps }) {
       <div className="absolute w-0 h-0 border-t-[100vw] border-r-[100vw] border-t-black/10 border-r-transparent -z-1"></div>
       <Navbar />
       <Component {...pageProps} />
+      <Footer />
     </div>
   );
 }
