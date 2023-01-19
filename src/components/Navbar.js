@@ -17,9 +17,9 @@ export default function Navbar() {
 
   const [isOpen, setisOpen] = useState(false);
   return (
-    <div className="group sticky z-10 top-0 font-graphik">
+    <div className="sticky z-10 top-0 group font-graphik">
       <nav
-        className={`flex flex-row items-center justify-between px-[10%] py-[2.5%] group-hover:text-white transition-colors duration-500 ease-in-out relative ${
+        className={`flex flex-row items-center justify-between px-[10%] py-[2.5%] group-hover:text-white transition-colors duration-500 ease-in-out relative z-10 ${
           isOpen || !isTop ? "bg-white" : ""
         }`}
       >
@@ -40,7 +40,7 @@ export default function Navbar() {
           <div class="w-8 h-1 bg-black/75"></div>
         </div>
         <ul
-          className={` uppercase absolute left-0 top-[100%] ${
+          className={`md:hidden uppercase absolute left-0 top-[100%] ${
             isOpen ? "bg-white flex" : ""
           } w-full pl-[10%] pb-[5%] transition-colors duration-500`}
         >
