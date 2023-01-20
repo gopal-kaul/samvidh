@@ -30,7 +30,7 @@ export default function Navbar() {
           />
         </ActiveLink>
         <div
-          class="space-y-1 md:hidden"
+          className="space-y-1 md:hidden"
           onClick={() => {
             setisOpen((state) => !state);
           }}
