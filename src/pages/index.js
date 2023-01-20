@@ -58,7 +58,7 @@ export default function Home() {
           of our work. <br /> <br /> But what really sets us apart is our
           commitment to excellence. We are constantly striving to improve our
           skills and stay up-to-date with the latest Mulesoft technologies. We
-          know your API and Integration struggles, and we've got the expertise
+          know your API and Integration struggles, and we&apos;ve got the expertise
           to deliver exceptional results. <br /> <br /> Our clients know that
           when they work with us, they are getting the best Mulesoft services
           available. We are always there to support you whether you need help
@@ -92,7 +92,7 @@ export default function Home() {
                 Technical expertise is important, but beyond that we also offer
                 a commitment to excellent customer service. We understand that
                 every client is unique, with their own set of challenges and
-                goals. That's why we take a personalized approach to every
+                goals. That&apos;s why we take a personalized approach to every
                 project, working closely with you as the client to understand
                 your needs and to ensure you get the most value from our
                 services. We are dedicated to helping clients like you to
@@ -116,8 +116,8 @@ export default function Home() {
             Why you should be using Mulesoft Integration services
           </h2>
           <p className="text-center md:px-[10%] text-[1.5vw] pt-[5%]">
-            Mulesoft is a powerhouse for integration and API services, but it's
-            also much more than that. Below we've compiled some great reasons
+            Mulesoft is a powerhouse for integration and API services, but it&apos;s
+            also much more than that. Below we&apos;ve compiled some great reasons
             your organization should be using Mulesoft.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 place-items-start place-content-center gap-20">
@@ -135,7 +135,7 @@ export default function Home() {
               <img src="/home.jpg" className="w-1/3" />
               <h3 className="font-bold">Enhanced agility</h3>
               <p className="md:px-[10%]">
-                Mulesoft's integration platform is designed to be flexible and
+                Mulesoft&apos;s integration platform is designed to be flexible and
                 adaptable, allowing a company to quickly and easily connect new
                 systems and applications as their business needs evolve. This
                 can help a company be more agile and responsive to change.
@@ -184,7 +184,7 @@ export default function Home() {
           <p className="pt-[5%] pb-[3%] md:px-[20%] text-center text-[1.5vw] leading-tight">
             Overall, Mulesoft can help your organization become more efficient,
             agile, and innovative, driving success and growth in the digital
-            age, and we've got the skills to get you there.
+            age, and we&apos;ve got the skills to get you there.
           </p>
           <div className="grid place-items-center">
             <a
@@ -230,7 +230,7 @@ export default function Home() {
                 <p>
                   Example of a customer review, this section has dummy text.
                   Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
+                  typesetting industry. Lorem Ipsum has been the industry&apos;s
                   standard dummy text ever since the 1500s
                 </p>
               </SwiperSlide>
@@ -248,7 +248,7 @@ export default function Home() {
         </section>
         <section className="bg-black mt-[5%] w-full flex flex-col md:flex-row justify-between px-[5%] absolute left-0 gap-y-10">
           <h2 className="md:w-1/2  text-white font-bold text-center md:text-start text-[3.6vw]">
-            Let's build a solution for your needs
+            Let&apos;s build a solution for your needs
           </h2>
           <div className="md:w-1/2 flex flex-col items-center md:items-end justify-center text-white">
             <button className="bg-gradient-to-l px-10 py-2 from-yellow to-red">
