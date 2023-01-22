@@ -46,15 +46,15 @@ export default function services() {
             of data and functionality between their various systems,
             applications, and platforms.
             <br /> <br />
-            For example, let's say an organization has a customer database, an
-            e-commerce platform, and a CRM system. Using Mulesoft's integration
-            platform, Anypoint Platform (which we'll cover in another section
+            For example, let&apos;s say an organization has a customer database, an
+            e-commerce platform, and a CRM system. Using Mulesoft&apos;s integration
+            platform, Anypoint Platform (which we&apos;ll cover in another section
             below), the organization can automate the flow of data between these
             systems so that customer information is automatically updated in the
             CRM whenever a purchase is made on the e-commerce platform. This can
             help the organization streamline its processes and save time by
             eliminating the need for manual data entry. <br /> <br /> In this
-            way, Mulesoft's tools and services can be used to support automation
+            way, Mulesoft&apos;s tools and services can be used to support automation
             in various areas of an organization, including business processes,
             data management, and application development.
             <br />
@@ -76,7 +76,7 @@ export default function services() {
             success with Mulesoft
           </h2>
           <p className="pt-[5%] text-[1.7vw] leading-tight">
-            Mulesoft's integration platform,{" "}
+            Mulesoft&apos;s integration platform,{" "}
             <span className="font-bold">Anypoint Platform,</span> can be used to
             connect and integrate Salesforce with other systems, applications,
             and platforms. This allows organizations to exchange data and
@@ -91,7 +91,7 @@ export default function services() {
             created in Salesforce. This can help the organization keep its
             customer information up-to-date and consistent across all systems.
             <br /> <br />
-            Whether you're using the full suite of{" "}
+            Whether you&apos;re using the full suite of{" "}
             <span className="font-bold">Customer 360 </span>or individual
             Salesforce tools, MuleSoft and Salesforce together can unlock data
             across systems, develop scalable integration and automation
@@ -104,12 +104,12 @@ export default function services() {
             to automate business processes that involve Salesforce. For example,
             an organization might use Mulesoft to create a new case in
             Salesforce whenever a customer submits a support request through the
-            company's website. This can help the organization streamline its
+            company&apos;s website. This can help the organization streamline its
             support processes and ensure that customer inquiries are properly
             tracked and resolved.
             <br /> <br />
             Mulesoft and Salesforce work together through the use of APIs
-            (Application Programming Interfaces). Mulesoft's API management
+            (Application Programming Interfaces). Mulesoft&apos;s API management
             platform, API Gateway, can be used to expose Salesforce data and
             functionality to other systems and applications in a secure and
             controlled way. This allows organizations to build custom
@@ -163,7 +163,7 @@ export default function services() {
                   APIs (Application Programming Interfaces)
                 </h2>
                 <p className="text-[1.3vw] leading-tight">
-                  Mulesoft's API management platform, API Gateway, can be used
+                  Mulesoft&apos;s API management platform, API Gateway, can be used
                   to expose Salesforce data and functionality to other systems
                   and applications in a secure and controlled way.
                 </p>
@@ -179,7 +179,7 @@ export default function services() {
           <div className="pt-[5%] flex flex-col md:flex-row gap-10 pb-[5%]">
             <div className=" w-full md:w-[60%]">
               <p className="text-[1.7vw] leading-tight">
-                Here at Samvidh, we've been working with Salesforce for many
+                Here at Samvidh, we&apos;ve been working with Salesforce for many
                 years, and our team of experts have helped numerous
                 organizations like yours to unlock the full potential of this
                 powerful CRM platform.
@@ -243,7 +243,7 @@ export default function services() {
             Personalized Expert solutions with Samvidh
           </h2>
           <div className="flex flex-col md:flex-row gap-10 pt-[5%]">
-            <ul className="marker:content-['✓'] marker:text-black/50 text-[1.5vw] space-y-4 w-full md:w-[60%]">
+            <ul className="marker:content-[&apos;✓&apos;] marker:text-black/50 text-[1.5vw] space-y-4 w-full md:w-[60%]">
               <li>
                 <p>Extensive industry-specific experience</p>
               </li>
@@ -283,7 +283,7 @@ export default function services() {
         </section>
         <section className="mt-[10%]">
           <h2 className="text-[3.4vw] font-semibold leading-tight text-center">
-            Let's push your Mulesoft and Salesforce output to new heights
+            Let&apos;s push your Mulesoft and Salesforce output to new heights
           </h2>
           <p className="pt-[5%] md:px-[10%] text-[1.5vw] leading-tight text-center">
             We are passionate about delivering top-quality MuleSoft and
