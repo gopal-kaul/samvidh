@@ -5,10 +5,13 @@ import { useState, useEffect } from "react";
 export default function Navbar() {
   const [isTop, setisTop] = useState(true);
   useEffect(() => {
-    const scroll = (e) => {
-      if (window.scrollY === 0) setisTop(true);
-      else setisTop(false);
-    };
+    scroll();
+  }, []);
+  const scroll = (e) => {
+    if (window.scrollY === 0) setisTop(true);
+    else setisTop(false);
+  };
+  useEffect(() => {
     window.addEventListener("scroll", scroll);
     return () => {
       window.removeEventListener("scroll", scroll);
@@ -53,7 +56,7 @@ export default function Navbar() {
               <ActiveLink href="/">Home</ActiveLink>
             </li>
             <li>
-              <ActiveLink href="#">Services</ActiveLink>
+              <ActiveLink href="/services">Services</ActiveLink>
             </li>
             <li>
               <ActiveLink href="#">Contact</ActiveLink>
@@ -65,7 +68,7 @@ export default function Navbar() {
             <ActiveLink href="/">Home</ActiveLink>
           </li>
           <li>
-            <ActiveLink href="#">Services</ActiveLink>
+            <ActiveLink href="/services">Services</ActiveLink>
           </li>
           <li>
             <ActiveLink href="#">Contact</ActiveLink>
