@@ -24,8 +24,8 @@ module.exports = {
           to: { top: "20%" },
         },
         slideContent: {
-          from: { transform: 'translateY(20%)' },
-          to: { transform: 'translateY(0)' },
+          from: { transform: "translateY(20%)" },
+          to: { transform: "translateY(0)" },
         },
       },
       animation: {
