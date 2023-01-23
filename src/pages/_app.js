@@ -85,7 +85,7 @@ const graphik = localFont({
 export default function App({ Component, pageProps }) {
   return (
     <div className={`${graphik.variable} font-sans relative`}>
-      <div className="absolute w-0 h-0 border-t-[100vw] border-r-[100vw] border-t-black/10 border-r-transparent -z-1"></div>
+      <div className="absolute w-0 h-0 border-t-[100vw] border-r-[100vw] border-t-black/10 border-r-transparent -z-10"></div>
       <Navbar />
       <Component {...pageProps} />
       <Footer />
