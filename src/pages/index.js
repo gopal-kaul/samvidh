@@ -127,7 +127,7 @@ export default function Home() {
             it&apos;s also much more than that. Below we&apos;ve compiled some
             great reasons your organization should be using Mulesoft.
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10 pt-[5%]">
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
               <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold ">Improved efficiency</h3>
