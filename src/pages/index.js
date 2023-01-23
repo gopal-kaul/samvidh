@@ -129,7 +129,7 @@ export default function Home() {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10 pt-[5%]">
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/home.jpg" className="w-1/2" />
+              <img src="/icon.png" className="w-1/2" />
               <h3 className="font-bold ">Improved efficiency</h3>
               <p className="md:px-[10%]">
                 Mulesoft can help a company integrate their systems and data,
@@ -139,7 +139,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/home.jpg" className="w-1/2" />
+              <img src="/icon.png" className="w-1/2" />
               <h3 className="font-bold">Enhanced agility</h3>
               <p className="md:px-[10%]">
                 Mulesoft&apos;s integration platform is designed to be flexible
@@ -149,7 +149,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/home.jpg" className="w-1/2" />
+              <img src="/icon.png" className="w-1/2" />
               <h3 className="font-bold">Increased revenue</h3>
               <p className="md:px-[10%]">
                 By exposing data and functionality through APIs, a company can
@@ -160,7 +160,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/home.jpg" className="w-1/2" />
+              <img src="/icon.png" className="w-1/2" />
               <h3 className="font-bold"> Better customer experience</h3>
               <p className="md:px-[10%]">
                 By integrating customer-facing systems and applications, a
@@ -170,7 +170,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/home.jpg" className="w-1/2" />
+              <img src="/icon.png" className="w-1/2" />
               <h3 className="font-bold">Improved data quality</h3>
               <p className="md:px-[10%]">
                 By integrating systems, a company can ensure that their data is
@@ -179,7 +179,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/home.jpg" className="w-1/2" />
+              <img src="/icon.png" className="w-1/2" />
               <h3 className="font-bold">Reduced risk</h3>
               <p className="md:px-[10%]">
                 By centralizing and standardizing integration, a company can
