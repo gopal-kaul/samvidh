@@ -260,15 +260,13 @@ export default function Home() {
             <img src="/home.jpg" className="w-1/2" />
           </div>
         </section>
-        <section className="bg-black mt-[5%] w-full flex flex-col md:flex-row justify-between px-[5%] absolute left-0 gap-y-10">
-          <h2 className="md:w-1/2  text-white font-bold text-center md:text-start text-[30px]">
+        <section className="bg-black mt-[5%] w-full flex flex-col md:flex-row px-[5%] absolute left-0 gap-x-10 py-[5%]">
+          <h2 className="text-white font-bold text-center md:text-start text-[30px]">
             Let&apos;s build a solution for your needs
           </h2>
-          <div className="md:w-1/2 flex flex-col items-center md:items-end justify-center text-white">
-            <button className="bg-gradient-to-l px-10 py-2 from-yellow to-red">
+            <button className="bg-gradient-to-l px-10 py-2 from-yellow to-red text-white">
               Get Started
             </button>
-          </div>
         </section>
       </main>
     </>
