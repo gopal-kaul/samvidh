@@ -46,17 +46,18 @@ export default function services() {
             of data and functionality between their various systems,
             applications, and platforms.
             <br /> <br />
-            For example, let&apos;s say an organization has a customer database, an
-            e-commerce platform, and a CRM system. Using Mulesoft&apos;s integration
-            platform, Anypoint Platform (which we&apos;ll cover in another section
-            below), the organization can automate the flow of data between these
-            systems so that customer information is automatically updated in the
-            CRM whenever a purchase is made on the e-commerce platform. This can
-            help the organization streamline its processes and save time by
-            eliminating the need for manual data entry. <br /> <br /> In this
-            way, Mulesoft&apos;s tools and services can be used to support automation
-            in various areas of an organization, including business processes,
-            data management, and application development.
+            For example, let&apos;s say an organization has a customer database,
+            an e-commerce platform, and a CRM system. Using Mulesoft&apos;s
+            integration platform, Anypoint Platform (which we&apos;ll cover in
+            another section below), the organization can automate the flow of
+            data between these systems so that customer information is
+            automatically updated in the CRM whenever a purchase is made on the
+            e-commerce platform. This can help the organization streamline its
+            processes and save time by eliminating the need for manual data
+            entry. <br /> <br /> In this way, Mulesoft&apos;s tools and services
+            can be used to support automation in various areas of an
+            organization, including business processes, data management, and
+            application development.
             <br />
             <br />
           </p>
@@ -104,9 +105,9 @@ export default function services() {
             to automate business processes that involve Salesforce. For example,
             an organization might use Mulesoft to create a new case in
             Salesforce whenever a customer submits a support request through the
-            company&apos;s website. This can help the organization streamline its
-            support processes and ensure that customer inquiries are properly
-            tracked and resolved.
+            company&apos;s website. This can help the organization streamline
+            its support processes and ensure that customer inquiries are
+            properly tracked and resolved.
             <br /> <br />
             Mulesoft and Salesforce work together through the use of APIs
             (Application Programming Interfaces). Mulesoft&apos;s API management
@@ -163,9 +164,9 @@ export default function services() {
                   APIs (Application Programming Interfaces)
                 </h2>
                 <p className="text-[20px] leading-tight">
-                  Mulesoft&apos;s API management platform, API Gateway, can be used
-                  to expose Salesforce data and functionality to other systems
-                  and applications in a secure and controlled way.
+                  Mulesoft&apos;s API management platform, API Gateway, can be
+                  used to expose Salesforce data and functionality to other
+                  systems and applications in a secure and controlled way.
                 </p>
               </div>
               <div className="w-0 md:w-1/4"></div>
@@ -179,8 +180,8 @@ export default function services() {
           <div className="pt-[5%] flex flex-col md:flex-row gap-10 pb-[5%]">
             <div className=" w-full md:w-[60%]">
               <p className="text-[25px] leading-tight">
-                Here at Samvidh, we&apos;ve been working with Salesforce for many
-                years, and our team of experts have helped numerous
+                Here at Samvidh, we&apos;ve been working with Salesforce for
+                many years, and our team of experts have helped numerous
                 organizations like yours to unlock the full potential of this
                 powerful CRM platform.
               </p>
@@ -222,85 +223,98 @@ export default function services() {
             TALK WITH US TODAY
           </a>
         </section>
-        </main>
-        <section className="mt-[10%] py-[5%] bg-gradient-to-l from-yellow/50 to-red/50">
-          <h2 className="text-[48px] font-semibold leading-tight text-center">
-            Customized Mulesoft solutions and exceptional results — our formula
-            for happy clients
-          </h2>
-          <p className="pt-[5%] md:px-[10%] text-[20px] leading-tight text-center">
-            &quot;I have been working with Samvidh for the past year and they
-            have consistently exceeded my expectations. Their customized
-            Mulesoft solutions have greatly improved the efficiency of my
-            business and I am extremely satisfied with the results. I highly
-            recommend Samvidh to anyone in need of Mulesoft services.&quot;
-          </p>
-          <h4 className="pt-[5%] md:px-[10%] font-bold text-[20px] leading-tight text-center">
-            Client X — Company name
-          </h4>
-        </section>
-        <section className="pt-[10%] px-[10%]">
-          <h2 className="text-[30px] font-semibold leading-tight text-center">
-            Personalized Expert solutions with Samvidh
-          </h2>
-          <div className="flex flex-col md:flex-row gap-10 pt-[5%]">
-            <ul className="marker:content-['✓'] marker:text-black/25 text-[20px] space-y-4 w-full md:w-[60%]">
-              <li>
-                <p>Extensive industry-specific experience</p>
-              </li>
-              <li>
-                <p>Custom, scalable solutions</p>
-              </li>
-              <li>
-                <p>Proven results and track record</p>
-              </li>
-              <li>
-                <p>Skilled professionals</p>
-              </li>
-              <li>
-                <p>Flexible engagement models</p>
-              </li>
-              <li>
-                <p>Strong program management expertise</p>
-              </li>
-              <li>
-                <p>Integration specialists</p>
-              </li>
-              <li>
-                <p>Strong patnerships</p>
-              </li>
-              <li>
-                <p>Competitive pricing</p>
-              </li>
-              <li>
-                <p>Exceptional customer service</p>
-              </li>
-            </ul>
-            <img
-              src="/home.jpg"
-              className="w-full md:w-[40%] min-h-full object-cover"
-            />
-          </div>
-        </section>
-        <section className="mt-[10%] px-[10%]">
-          <h2 className="text-[48px] font-semibold leading-tight text-center">
-            Let&apos;s push your Mulesoft and Salesforce output to new heights
-          </h2>
-          <p className="pt-[5%] md:px-[10%] text-[20px] leading-tight text-center">
-            We are passionate about delivering top-quality MuleSoft and
-            Salesforce solutions. With a collaborative, transparent approach and
-            a proven track record of success, Samvidh is the perfect partner to
-            help your business reach new heights.
-          </p>
-          <div className="grid place-items-center pt-[5%]">
-            <a
-              href="#"
-              className="uppercase bg-gradient-to-l from-yellow to-red text-white px-10 py-5 w-fit"
-            >
-              Connect now
-            </a>
-          </div>
-        </section>
+      </main>
+      <section className="mt-[10%] py-[5%] bg-gradient-to-l from-yellow/50 to-red/50">
+        <h2 className="text-[48px] font-semibold leading-tight text-center">
+          Customized Mulesoft solutions and exceptional results — our formula
+          for happy clients
+        </h2>
+        <p className="pt-[5%] md:px-[10%] text-[20px] leading-tight text-center">
+          &quot;I have been working with Samvidh for the past year and they have
+          consistently exceeded my expectations. Their customized Mulesoft
+          solutions have greatly improved the efficiency of my business and I am
+          extremely satisfied with the results. I highly recommend Samvidh to
+          anyone in need of Mulesoft services.&quot;
+        </p>
+        <h4 className="pt-[5%] md:px-[10%] font-bold text-[20px] leading-tight text-center">
+          Client X — Company name
+        </h4>
+      </section>
+      <section className="pt-[10%] px-[10%]">
+        <h2 className="text-[30px] font-semibold leading-tight text-center">
+          Personalized Expert solutions with Samvidh
+        </h2>
+        <ul className="text-[20px] pt-[5%] flex flex-row flex-wrap gap-20 justify-center items-center">
+          <li className="flex flex-col items-center">
+            <img src="/icon.png" />
+            <p>Extensive industry-specific experience</p>
+          </li>
+          <li className="flex flex-col items-center">
+            {" "}
+            <img src="/icon.png" />
+            <p>Custom, scalable solutions</p>
+          </li>
+          <li className="flex flex-col items-center">
+            {" "}
+            <img src="/icon.png" />
+            <p>Proven results and track record</p>
+          </li>
+          <li className="flex flex-col items-center">
+            {" "}
+            <img src="/icon.png" />
+            <p>Skilled professionals</p>
+          </li>
+          <li className="flex flex-col items-center">
+            {" "}
+            <img src="/icon.png" />
+            <p>Flexible engagement models</p>
+          </li>
+          <li className="flex flex-col items-center">
+            {" "}
+            <img src="/icon.png" />
+            <p>Strong program management expertise</p>
+          </li>
+          <li className="flex flex-col items-center">
+            {" "}
+            <img src="/icon.png" />
+            <p>Integration specialists</p>
+          </li>
+          <li className="flex flex-col items-center">
+            {" "}
+            <img src="/icon.png" />
+            <p>Strong patnerships</p>
+          </li>
+          <li className="flex flex-col items-center">
+            {" "}
+            <img src="/icon.png" />
+            <p>Competitive pricing</p>
+          </li>
+          <li className="flex flex-col items-center">
+            {" "}
+            <img src="/icon.png" />
+            <p>Exceptional customer service</p>
+          </li>
+        </ul>
+      </section>
+      <section className="mt-[10%] px-[10%]">
+        <h2 className="text-[48px] font-semibold leading-tight text-center">
+          Let&apos;s push your Mulesoft and Salesforce output to new heights
+        </h2>
+        <p className="pt-[5%] md:px-[10%] text-[20px] leading-tight text-center">
+          We are passionate about delivering top-quality MuleSoft and Salesforce
+          solutions. With a collaborative, transparent approach and a proven
+          track record of success, Samvidh is the perfect partner to help your
+          business reach new heights.
+        </p>
+        <div className="grid place-items-center pt-[5%]">
+          <a
+            href="#"
+            className="uppercase bg-gradient-to-l from-yellow to-red text-white px-10 py-5 w-fit"
+          >
+            Connect now
+          </a>
+        </div>
+      </section>
     </>
   );
 }
