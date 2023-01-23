@@ -260,7 +260,7 @@ export default function Home() {
             <img src="/home.jpg" className="w-1/2" />
           </div>
         </section>
-        <section className="bg-black mt-[5%] w-full flex flex-col md:flex-row px-[5%] absolute left-0 gap-x-10 py-[5%]">
+        <section className="bg-black mt-[5%] w-full flex flex-col md:flex-row px-[5%] absolute left-0 gap-x-10 py-[5%] justify-center">
           <h2 className="text-white font-bold text-center md:text-start text-[30px]">
             Let&apos;s build a solution for your needs
           </h2>
