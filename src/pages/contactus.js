@@ -17,11 +17,11 @@ export default function ContactUs() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main className="px-[10%] font-graphik pt-[5%]">
-        <h2 className="animate-slideContent translate-y-[20%] text-[3.6vw] font-semibold leading-tight">
+        <h2 className="animate-slideContent translate-y-[20%] text-[30px] font-semibold leading-tight">
           Let us show you the power of Mulesoft for your business: Contact us
           today!
         </h2>
-        <p className="pt-[5%] text-[1.5vw] leading-tight">
+        <p className="pt-[5%] text-[20px] leading-tight">
           Reliable, powerful MuleSoft and Salesforce integration services that
           will propel your company towards success is what we do. <br />
           <br />

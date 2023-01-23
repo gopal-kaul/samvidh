@@ -23,13 +23,11 @@ export default function Home() {
               className="w-full h-full absolute top-[100%] left-0 animate-slideSlow"
             />
           </div>
-          <div className="animate-slideContent translate-y-[20%] w-full md:w-2/3 flex flex-col justify-between">
-            <h2 className="text-[8vw] md:text-[4vw] lg:text-[3.7vw] font-semibold leading-tight">
-              The Experts in
-              <br />
-              Mulesoft Integration
+          <div className="animate-slideContent translate-y-[20%] w-full md:w-2/3 flex flex-col py-[10%] space-y-10">
+            <h2 className="text-[48px] font-semibold leading-tight">
+              The Experts in Mulesoft Integration
             </h2>
-            <p className="pt-[10%] pb-[15%] md:py-0 text-[4vw] md:text-[2vw] lg:text-[1.8vw] leading-normal">
+            <p className="pt-[10%] pb-[15%] md:py-0 text-[24px] leading-normal">
               Samvidh is the premier choice for Mulesoft services, offering a
               comprehensive range of integration and API management solutions
               that will help you to transform your business and drive digital
@@ -43,10 +41,10 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <h2 className="text-[3.6vw] pt-[10%] font-semibold leading-tight">
+        <h2 className="text-[30px] pt-[10%] font-semibold leading-tight">
           Welcome to the future of your Mulesoft SOA, SaaS, and APIs integration
         </h2>
-        <p className="pt-[5%] text-[1.5vw] leading-tight">
+        <p className="pt-[5%] text-[20px] leading-tight">
           <span className="font-bold">
             Samvidh is the go-to Mulesoft expert.
           </span>{" "}
@@ -70,13 +68,13 @@ export default function Home() {
           organization to succeed and grow!.
         </p>
         <section className="pt-[10%]">
-          <h2 className="text-[3.6vw] pt-[5%] font-semibold leading-tight">
+          <h2 className="text-[30px] pt-[5%] font-semibold leading-tight">
             Your organization deserves to work with the Best
           </h2>
           <div className="flex flex-col gap-y-10 pt-[5%]">
             <div className="flex flex-row items-center gap-5">
               <img src="/home.jpg" className="w-1/4" />
-              <p className="text-[1.5vw] w-3/4 leading-tight">
+              <p className="text-[20px] w-3/4 leading-tight">
                 One of the key reasons to choose Samvidh is our team of highly
                 skilled and experienced professionals. Our team has a deep
                 understanding of Mulesoft and how to leverage its capabilities
@@ -88,7 +86,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row items-center gap-5">
               <img src="/home.jpg" className="w-1/4" />
-              <p className="text-[1.5vw] w-3/4 leading-tight">
+              <p className="text-[20px] w-3/4 leading-tight">
                 Technical expertise is important, but beyond that we also offer
                 a commitment to excellent customer service. We understand that
                 every client is unique, with their own set of challenges and
@@ -102,7 +100,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row items-center gap-5">
               <img src="/home.jpg" className="w-1/4" />
-              <p className="text-[1.5vw] w-3/4 leading-tight">
+              <p className="text-[20px] w-3/4 leading-tight">
                 Another advantage of choosing Samvidh is our competitive
                 pricing. We believe in offering high-quality services at a fair
                 price, and we will work with you to develop customized pricing
@@ -112,18 +110,18 @@ export default function Home() {
           </div>
         </section>
         <section className="pt-[10%]">
-          <h2 className="text-[3.6vw] font-semibold leading-tight text-center md:px-[10%]">
+          <h2 className="text-[30px] font-semibold leading-tight text-center md:px-[10%]">
             Why you should be using Mulesoft Integration services
           </h2>
-          <p className="text-center md:px-[10%] text-[1.5vw] pt-[5%]">
+          <p className="text-center md:px-[10%] text-[20px] pt-[5%]">
             Mulesoft is a powerhouse for integration and API services, but it&apos;s
             also much more than that. Below we&apos;ve compiled some great reasons
             your organization should be using Mulesoft.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10">
-            <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
+            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
               <img src="/home.jpg" className="w-1/2" />
-              <h3 className="font-bold">Improved efficiency</h3>
+              <h3 className="font-bold ">Improved efficiency</h3>
               <p className="md:px-[10%]">
                 Mulesoft can help a company integrate their systems and data,
                 enabling them to automate processes and eliminate manual work.
@@ -131,7 +129,7 @@ export default function Home() {
                 the organization.
               </p>
             </div>
-            <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
+            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
               <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Enhanced agility</h3>
               <p className="md:px-[10%]">
@@ -141,7 +139,7 @@ export default function Home() {
                 can help a company be more agile and responsive to change.
               </p>
             </div>
-            <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
+            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
               <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Increased revenue</h3>
               <p className="md:px-[10%]">
@@ -152,7 +150,7 @@ export default function Home() {
                 top of it.
               </p>
             </div>
-            <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
+            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
               <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold"> Better customer experience</h3>
               <p className="md:px-[10%]">
@@ -162,7 +160,7 @@ export default function Home() {
                 satisfaction and loyalty.
               </p>
             </div>
-            <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
+            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
               <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Improved data quality</h3>
               <p className="md:px-[10%]">
@@ -171,7 +169,7 @@ export default function Home() {
                 improve decision-making and drive better business outcomes.
               </p>
             </div>
-            <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
+            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
               <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Reduced risk</h3>
               <p className="md:px-[10%]">
@@ -181,7 +179,7 @@ export default function Home() {
               </p>
             </div>
           </div>
-          <p className="pt-[5%] pb-[3%] md:px-[20%] text-center text-[1.5vw] leading-tight">
+          <p className="pt-[5%] pb-[3%] md:px-[20%] text-center text-[20px] leading-tight">
             Overall, Mulesoft can help your organization become more efficient,
             agile, and innovative, driving success and growth in the digital
             age, and we&apos;ve got the skills to get you there.
@@ -197,7 +195,7 @@ export default function Home() {
         </section>
 
         <section className="pt-[10%]">
-          <h2 className="text-[3.6vw] font-semibold leading-tight text-end">
+          <h2 className="text-[30px] font-semibold leading-tight text-end">
             Partners and certifications
           </h2>
           <div className="grid grid-cols-1 pt-[5%] gap-20 sm:grid-cols-2 lg:grid-cols-4">
@@ -212,7 +210,7 @@ export default function Home() {
           </div>
         </section>
         <section className="pt-[10%]">
-          <h2 className="text-[3.6vw] font-semibold leading-tight text-center">
+          <h2 className="text-[30px] font-semibold leading-tight text-center">
             Our customers know us best
           </h2>
           <div className="pt-[5%] flex flex-col md:flex-row items-center gap-20">
@@ -225,7 +223,7 @@ export default function Home() {
               slidesPerView={1}
               spaceBetween={10}
             >
-              <SwiperSlide className="text-[1.5vw] pb-[10%] md:pb-[5%]">
+              <SwiperSlide className="text-[20px] pb-[10%] md:pb-[5%]">
                 <h2 className="font-bold">Customer XYZ</h2>
                 <p>
                   Example of a customer review, this section has dummy text.
@@ -234,11 +232,11 @@ export default function Home() {
                   standard dummy text ever since the 1500s
                 </p>
               </SwiperSlide>
-              <SwiperSlide className="text-[1.5vw]">
+              <SwiperSlide className="text-[20px]">
                 <h2 className="font-bold">Customer XYZ</h2>
                 <p>Slide 2</p>
               </SwiperSlide>
-              <SwiperSlide className="text-[1.5vw]">
+              <SwiperSlide className="text-[20px]">
                 <h2 className="font-bold">Customer XYZ</h2>
                 <p>Slide 3</p>
               </SwiperSlide>
@@ -254,7 +252,7 @@ export default function Home() {
           </div>
         </section>
         <section className="bg-black mt-[5%] w-full flex flex-col md:flex-row justify-between px-[5%] absolute left-0 gap-y-10">
-          <h2 className="md:w-1/2  text-white font-bold text-center md:text-start text-[3.6vw]">
+          <h2 className="md:w-1/2  text-white font-bold text-center md:text-start text-[30px]">
             Let&apos;s build a solution for your needs
           </h2>
           <div className="md:w-1/2 flex flex-col items-center md:items-end justify-center text-white">
