@@ -41,8 +41,8 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <div className="flex flex-col md:flex-row gap-10 pt-[10%]">
-          <div className="w-full md:w-1/2">
+        <div className="flex flex-col md:flex-row justify-between gap-10 pt-[10%]">
+          <div className="w-full md:w-2/5">
             <h2 className="text-[30px] font-semibold leading-tight">
               Welcome to the future of your Mulesoft SOA, SaaS, and APIs
               integration
