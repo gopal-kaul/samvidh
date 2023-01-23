@@ -22,14 +22,14 @@ export default function Navbar() {
   return (
     <div className="sticky z-10 top-0 group font-graphik">
       <nav
-        className={`flex flex-row items-center justify-between px-[10%] py-[2.5%] group-hover:text-white transition-colors duration-500 ease-in-out relative z-10 ${
+        className={`flex flex-row items-center justify-between px-[10%] py-[2%] group-hover:text-white transition-colors duration-500 ease-in-out relative z-10 ${
           isOpen || !isTop ? "bg-white" : ""
         }`}
       >
         <ActiveLink href={"/"}>
           <Image
             src={Logo}
-            className="max-w-[40vw] sm:max-w-[30vw] md:max-w-[25vw] py-1"
+            className="max-w-[40vw] sm:max-w-[30vw] md:max-w-[15vw] py-1"
           />
         </ActiveLink>
         <div
