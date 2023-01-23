@@ -59,7 +59,7 @@ export default function Navbar() {
               <ActiveLink href="/services">Services</ActiveLink>
             </li>
             <li>
-              <ActiveLink href="#">Contact</ActiveLink>
+              <ActiveLink href="/contactus">Contact</ActiveLink>
             </li>
           </div>
         </ul>
@@ -71,7 +71,7 @@ export default function Navbar() {
             <ActiveLink href="/services">Services</ActiveLink>
           </li>
           <li>
-            <ActiveLink href="#">Contact</ActiveLink>
+            <ActiveLink href="/contactus">Contact</ActiveLink>
           </li>
         </ul>
         <div className="absolute top-0 left-0 -translate-x-full group-hover:translate-x-0 w-full bg-black h-full -z-10 transition-transform duration-500 ease-in-out"></div>
