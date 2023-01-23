@@ -222,6 +222,7 @@ export default function services() {
             TALK WITH US TODAY
           </a>
         </section>
+        </main>
         <section className="mt-[10%] py-[5%] bg-gradient-to-l from-yellow/50 to-red/50">
           <h2 className="text-[48px] font-semibold leading-tight text-center">
             Customized Mulesoft solutions and exceptional results — our formula
@@ -238,7 +239,7 @@ export default function services() {
             Client X — Company name
           </h4>
         </section>
-        <section className="pt-[10%]">
+        <section className="pt-[10%] px-[10%]">
           <h2 className="text-[30px] font-semibold leading-tight text-center">
             Personalized Expert solutions with Samvidh
           </h2>
@@ -281,7 +282,7 @@ export default function services() {
             />
           </div>
         </section>
-        <section className="mt-[10%]">
+        <section className="mt-[10%] px-[10%]">
           <h2 className="text-[48px] font-semibold leading-tight text-center">
             Let&apos;s push your Mulesoft and Salesforce output to new heights
           </h2>
@@ -300,7 +301,6 @@ export default function services() {
             </a>
           </div>
         </section>
-      </main>
     </>
   );
 }
