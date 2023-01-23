@@ -74,7 +74,7 @@ export default function Home() {
           </div>
           <div className="w-full md:w-1/2">
             <img src="/home.jpg" className="h-full object-cover" />
-            </div>
+          </div>
         </div>
         <section className="pt-[10%]">
           <h2 className="text-[30px] pt-[5%] font-semibold leading-tight">
@@ -202,22 +202,23 @@ export default function Home() {
             </a>
           </div>
         </section>
-
-        <section className="pt-[10%]">
-          <h2 className="text-[30px] font-semibold leading-tight text-end">
-            Partners and certifications
-          </h2>
-          <div className="grid grid-cols-1 pt-[5%] gap-20 sm:grid-cols-2 lg:grid-cols-4">
-            <img src="/home.jpg" />
-            <img src="/home.jpg" />
-            <img src="/home.jpg" />
-            <img src="/home.jpg" />
-            <img src="/home.jpg" />
-            <img src="/home.jpg" />
-            <img src="/home.jpg" />
-            <img src="/home.jpg" />
-          </div>
-        </section>
+      </main>
+      <section className="mt-[5%] py-[5%] mb-[5%] bg-[#f7f7f7] px-[10%]">
+        <h2 className="text-[30px] font-semibold leading-tight text-end">
+          Partners and certifications
+        </h2>
+        <div className="grid grid-cols-1 pt-[5%] gap-20 sm:grid-cols-2 lg:grid-cols-4">
+          <img src="/home.jpg" />
+          <img src="/home.jpg" />
+          <img src="/home.jpg" />
+          <img src="/home.jpg" />
+          <img src="/home.jpg" />
+          <img src="/home.jpg" />
+          <img src="/home.jpg" />
+          <img src="/home.jpg" />
+        </div>
+      </section>
+      <div className="px-[10%]">
         <section className="pt-[10%]">
           <h2 className="text-[30px] font-semibold leading-tight text-center">
             Our customers know us best
@@ -264,11 +265,11 @@ export default function Home() {
           <h2 className="text-white font-bold text-center md:text-start text-[30px]">
             Let&apos;s build a solution for your needs
           </h2>
-            <button className="bg-gradient-to-l px-10 py-2 from-yellow to-red text-white">
-              Get Started
-            </button>
+          <button className="bg-gradient-to-l px-10 py-2 from-yellow to-red text-white">
+            Get Started
+          </button>
         </section>
-      </main>
+      </div>
     </>
   );
 }
