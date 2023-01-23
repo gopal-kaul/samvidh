@@ -29,7 +29,7 @@ export default function Home() {
               <br />
               Mulesoft Integration
             </h2>
-            <p className="pt-[10%] pb-[15%] md:py-0 text-[4vw] md:text-[2vw] lg:text-[1.8vw] leading-tight">
+            <p className="pt-[10%] pb-[15%] md:py-0 text-[4vw] md:text-[2vw] lg:text-[1.8vw] leading-normal">
               Samvidh is the premier choice for Mulesoft services, offering a
               comprehensive range of integration and API management solutions
               that will help you to transform your business and drive digital
@@ -37,13 +37,13 @@ export default function Home() {
             </p>
             <a
               href="#"
-              className="uppercase bg-gradient-to-l from-yellow to-red text-white px-10 py-5 w-fit"
+              className="uppercase bg-gradient-to-l from-yellow to-red text-white px-16 py-3 w-fit"
             >
               Take A Tour
             </a>
           </div>
         </div>
-        <h2 className="text-[3.6vw] pt-[5%] font-semibold leading-tight">
+        <h2 className="text-[3.6vw] pt-[10%] font-semibold leading-tight">
           Welcome to the future of your Mulesoft SOA, SaaS, and APIs integration
         </h2>
         <p className="pt-[5%] text-[1.5vw] leading-tight">
@@ -120,9 +120,9 @@ export default function Home() {
             also much more than that. Below we&apos;ve compiled some great reasons
             your organization should be using Mulesoft.
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 place-items-start place-content-center gap-20">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10">
             <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
-              <img src="/home.jpg" className="w-1/3" />
+              <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Improved efficiency</h3>
               <p className="md:px-[10%]">
                 Mulesoft can help a company integrate their systems and data,
@@ -132,7 +132,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
-              <img src="/home.jpg" className="w-1/3" />
+              <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Enhanced agility</h3>
               <p className="md:px-[10%]">
                 Mulesoft&apos;s integration platform is designed to be flexible and
@@ -142,7 +142,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
-              <img src="/home.jpg" className="w-1/3" />
+              <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Increased revenue</h3>
               <p className="md:px-[10%]">
                 By exposing data and functionality through APIs, a company can
@@ -153,7 +153,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
-              <img src="/home.jpg" className="w-1/3" />
+              <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold"> Better customer experience</h3>
               <p className="md:px-[10%]">
                 By integrating customer-facing systems and applications, a
@@ -163,7 +163,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
-              <img src="/home.jpg" className="w-1/3" />
+              <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Improved data quality</h3>
               <p className="md:px-[10%]">
                 By integrating systems, a company can ensure that their data is
@@ -172,7 +172,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[5%] flex flex-col items-center text-center text-[1.5vw] leading-tight">
-              <img src="/home.jpg" className="w-1/3" />
+              <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Reduced risk</h3>
               <p className="md:px-[10%]">
                 By centralizing and standardizing integration, a company can
@@ -242,6 +242,13 @@ export default function Home() {
                 <h2 className="font-bold">Customer XYZ</h2>
                 <p>Slide 3</p>
               </SwiperSlide>
+              <style jsx global>
+                {`
+                  .swiper-pagination{
+                    text-align: start !important;
+                  }
+                `}
+              </style>
             </Swiper>
             <img src="/home.jpg" className="w-1/2" />
           </div>
