@@ -93,9 +93,9 @@ export default function Home() {
                 including healthcare, financial services, retail, and more.
               </p>
             </div>
-            <div className="flex flex-col md:flex-row items-center gap-5">
+            <div className="flex flex-col md:flex-row-reverse items-center gap-5">
               <img src="/home.jpg" className="md:w-1/4" />
-              <p className="text-[20px] md:w-3/4 leading-normal  md:pl-[7%]">
+              <p className="text-[20px] md:w-3/4 leading-normal  md:pr-[7%]">
                 Technical expertise is important, but beyond that we also offer
                 a commitment to excellent customer service. We understand that
                 every client is unique, with their own set of challenges and
