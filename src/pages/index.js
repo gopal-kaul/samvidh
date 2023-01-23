@@ -41,40 +41,49 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <h2 className="text-[30px] pt-[10%] font-semibold leading-tight">
-          Welcome to the future of your Mulesoft SOA, SaaS, and APIs integration
-        </h2>
-        <p className="pt-[5%] text-[20px] leading-tight">
-          <span className="font-bold">
-            Samvidh is the go-to Mulesoft expert.
-          </span>{" "}
-          Our team of experienced professionals have been working with Mulesoft
-          technologies for years, and we have a deep understanding of how to use
-          Mulesoft to solve your real-world problems. <br /> <br />
-          We have a track record of delivering successful Mulesoft projects for
-          our clients, and we have received numerous accolades for the quality
-          of our work. <br /> <br /> But what really sets us apart is our
-          commitment to excellence. We are constantly striving to improve our
-          skills and stay up-to-date with the latest Mulesoft technologies. We
-          know your API and Integration struggles, and we&apos;ve got the expertise
-          to deliver exceptional results. <br /> <br /> Our clients know that
-          when they work with us, they are getting the best Mulesoft services
-          available. We are always there to support you whether you need help
-          with a specific project or just have questions about how Mulesoft can
-          help your business.
-          <br />
-          <br /> If you want to work with the best Mulesoft team in the
-          industry, look no further than Samvidh. We are here to help your
-          organization to succeed and grow!.
-        </p>
+        <div className="flex flex-col md:flex-row gap-10 pt-[10%]">
+          <div className="w-full md:w-1/2">
+            <h2 className="text-[30px] font-semibold leading-tight">
+              Welcome to the future of your Mulesoft SOA, SaaS, and APIs
+              integration
+            </h2>
+            <p className="pt-[5%] text-[20px] leading-tight">
+              <span className="font-bold">
+                Samvidh is the go-to Mulesoft expert.
+              </span>{" "}
+              Our team of experienced professionals have been working with
+              Mulesoft technologies for years, and we have a deep understanding
+              of how to use Mulesoft to solve your real-world problems. <br />{" "}
+              <br />
+              We have a track record of delivering successful Mulesoft projects
+              for our clients, and we have received numerous accolades for the
+              quality of our work. <br /> <br /> But what really sets us apart
+              is our commitment to excellence. We are constantly striving to
+              improve our skills and stay up-to-date with the latest Mulesoft
+              technologies. We know your API and Integration struggles, and
+              we&apos;ve got the expertise to deliver exceptional results.{" "}
+              <br /> <br /> Our clients know that when they work with us, they
+              are getting the best Mulesoft services available. We are always
+              there to support you whether you need help with a specific project
+              or just have questions about how Mulesoft can help your business.
+              <br />
+              <br /> If you want to work with the best Mulesoft team in the
+              industry, look no further than Samvidh. We are here to help your
+              organization to succeed and grow!.
+            </p>
+          </div>
+          <div className="w-full md:w-1/2">
+            <img src="/home.jpg" className="h-full object-cover" />
+            </div>
+        </div>
         <section className="pt-[10%]">
           <h2 className="text-[30px] pt-[5%] font-semibold leading-tight">
             Your organization deserves to work with the Best
           </h2>
           <div className="flex flex-col gap-y-10 pt-[5%]">
-            <div className="flex flex-row items-center gap-5">
-              <img src="/home.jpg" className="w-1/4" />
-              <p className="text-[20px] w-3/4 leading-tight">
+            <div className="flex flex-col md:flex-row items-center gap-5">
+              <img src="/home.jpg" className="md:w-1/4" />
+              <p className="text-[20px] md:w-3/4 leading-normal md:pl-[7%]">
                 One of the key reasons to choose Samvidh is our team of highly
                 skilled and experienced professionals. Our team has a deep
                 understanding of Mulesoft and how to leverage its capabilities
@@ -84,9 +93,9 @@ export default function Home() {
                 including healthcare, financial services, retail, and more.
               </p>
             </div>
-            <div className="flex flex-row items-center gap-5">
-              <img src="/home.jpg" className="w-1/4" />
-              <p className="text-[20px] w-3/4 leading-tight">
+            <div className="flex flex-col md:flex-row items-center gap-5">
+              <img src="/home.jpg" className="md:w-1/4" />
+              <p className="text-[20px] md:w-3/4 leading-normal  md:pl-[7%]">
                 Technical expertise is important, but beyond that we also offer
                 a commitment to excellent customer service. We understand that
                 every client is unique, with their own set of challenges and
@@ -98,9 +107,9 @@ export default function Home() {
                 support along the way.
               </p>
             </div>
-            <div className="flex flex-row items-center gap-5">
-              <img src="/home.jpg" className="w-1/4" />
-              <p className="text-[20px] w-3/4 leading-tight">
+            <div className="flex flex-col md:flex-row items-center gap-5">
+              <img src="/home.jpg" className="md:w-1/4" />
+              <p className="text-[20px] md:w-3/4 leading-normal  md:pl-[7%]">
                 Another advantage of choosing Samvidh is our competitive
                 pricing. We believe in offering high-quality services at a fair
                 price, and we will work with you to develop customized pricing
@@ -114,9 +123,9 @@ export default function Home() {
             Why you should be using Mulesoft Integration services
           </h2>
           <p className="text-center md:px-[10%] text-[20px] pt-[5%]">
-            Mulesoft is a powerhouse for integration and API services, but it&apos;s
-            also much more than that. Below we&apos;ve compiled some great reasons
-            your organization should be using Mulesoft.
+            Mulesoft is a powerhouse for integration and API services, but
+            it&apos;s also much more than that. Below we&apos;ve compiled some
+            great reasons your organization should be using Mulesoft.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10">
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
@@ -133,10 +142,10 @@ export default function Home() {
               <img src="/home.jpg" className="w-1/2" />
               <h3 className="font-bold">Enhanced agility</h3>
               <p className="md:px-[10%]">
-                Mulesoft&apos;s integration platform is designed to be flexible and
-                adaptable, allowing a company to quickly and easily connect new
-                systems and applications as their business needs evolve. This
-                can help a company be more agile and responsive to change.
+                Mulesoft&apos;s integration platform is designed to be flexible
+                and adaptable, allowing a company to quickly and easily connect
+                new systems and applications as their business needs evolve.
+                This can help a company be more agile and responsive to change.
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
@@ -242,7 +251,7 @@ export default function Home() {
               </SwiperSlide>
               <style jsx global>
                 {`
-                  .swiper-pagination{
+                  .swiper-pagination {
                     text-align: start !important;
                   }
                 `}
