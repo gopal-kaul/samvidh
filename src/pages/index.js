@@ -219,7 +219,7 @@ export default function Home() {
         </div>
       </section>
       <div className="px-[10%]">
-        <section className="pt-[10%]">
+        <section className="pt-[5%]">
           <h2 className="text-[30px] font-semibold leading-tight text-center">
             Our customers know us best
           </h2>
