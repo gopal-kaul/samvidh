@@ -37,15 +37,15 @@ export default function ContactUs() {
           </a>
         </p>
       </main>
-        <div className="mt-[5%] py-[5%] flex flex-col gap-10 md:flex-row z-10 justify-center px-[10%] bg-gradient-to-l from-yellow to-red">
+        <div className="mt-[5%] p-[1%] flex flex-col gap-10 md:flex-row z-10 justify-between mx-[10%] bg-gradient-to-l from-yellow to-red rounded-lg">
         <img
             src="/home.jpg"
-            className="object-cover md:w-1/4 w-full min-h-full"
+            className="object-cover md:w-1/3 w-full min-h-full rounded-lg"
           />
           <form
             action="#"
             method="POST"
-            className="md:w-1/3 w-full flex flex-col gap-6 justify-between text-lg p-[5%] bg-white rounded-lg"
+            className="md:w-2/3 w-full flex flex-col gap-6 justify-between text-lg p-[5%] bg-white rounded-lg"
           >
             <input
               type="text"
