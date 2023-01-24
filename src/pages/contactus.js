@@ -1,3 +1,4 @@
+import Navbar from "@/components/Navbar";
 import Head from "next/head";
 import { useState } from "react";
 
@@ -35,11 +36,16 @@ export default function ContactUs() {
             sales@samvidhtech.com
           </a>
         </p>
-        <div className="pt-[10%] flex flex-col gap-10 md:flex-row z-10 justify-between">
+      </main>
+        <div className="mt-[5%] py-[5%] flex flex-col gap-10 md:flex-row z-10 justify-center px-[10%] bg-gradient-to-l from-yellow to-red">
+        <img
+            src="/home.jpg"
+            className="object-cover md:w-1/4 w-full min-h-full"
+          />
           <form
             action="#"
             method="POST"
-            className="md:w-1/3 w-full flex flex-col gap-6 justify-between text-lg"
+            className="md:w-1/3 w-full flex flex-col gap-6 justify-between text-lg p-[5%] bg-white rounded-lg"
           >
             <input
               type="text"
@@ -78,12 +84,11 @@ export default function ContactUs() {
             />
 	    <button type="submit" className="text-center uppercase bg-gradient-to-l from-yellow to-red text-white py-1">Submit</button>
           </form>
-          <img
-            src="/home.jpg"
-            className="object-cover md:w-1/4 w-full min-h-full"
-          />
         </div>
-      </main>
     </>
   );
+}
+
+ContactUs.getLayout = function getLayout(page){
+  return <><Navbar />{page}</>
 }

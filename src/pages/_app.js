@@ -79,16 +79,23 @@ const graphik = localFont({
       path: "../fonts/Graphik/GraphikThinItalic.otf",
     },
   ],
-  variable:"--font-graphik",
+  variable: "--font-graphik",
 });
 
 export default function App({ Component, pageProps }) {
-  return (
+  const getLayout =
+    Component.getLayout ||
+    ((page) => (
+      <>
+        <div className="absolute w-0 h-0 border-t-[100vw] border-r-[100vw] border-t-[#f7f7f7] border-r-transparent -z-10"></div>
+        <Navbar />
+        {page}
+        <Footer />
+      </>
+    ));
+  return getLayout(
     <div className={`${graphik.variable} font-sans relative`}>
-      <div className="absolute w-0 h-0 border-t-[100vw] border-r-[100vw] border-t-[#f7f7f7] border-r-transparent -z-10"></div>
-      <Navbar />
       <Component {...pageProps} />
-      <Footer />
     </div>
   );
 }
