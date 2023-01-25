@@ -37,7 +37,7 @@ export default function ContactUs() {
           </a>
         </p>
       </main>
-        <div className="mt-[5%] p-[1%] flex flex-col gap-10 md:flex-row z-10 justify-between mx-[10%] bg-gradient-to-l from-yellow to-red rounded-lg">
+        <div className="mt-[5%] p-[1%] flex flex-col gap-10 md:flex-row z-10 justify-between mx-[10%] bg-blue rounded-lg">
         <img
             src="/home.jpg"
             className="object-cover md:w-1/3 w-full min-h-full rounded-lg"
@@ -82,7 +82,7 @@ export default function ContactUs() {
               placeholder="Message"
               required
             />
-	    <button type="submit" className="text-center uppercase bg-gradient-to-l from-yellow to-red text-white py-1">Submit</button>
+	    <button type="submit" className="text-center uppercase bg-blue text-white py-1">Submit</button>
           </form>
         </div>
     </>

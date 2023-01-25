@@ -22,7 +22,7 @@ export default function services() {
           </p>
           <a
             href="#"
-            className="uppercase bg-gradient-to-l from-yellow to-red text-white px-10 py-5 w-fit"
+            className="uppercase bg-blue text-white px-10 py-5 w-fit"
           >
             Explore
           </a>
@@ -68,7 +68,7 @@ export default function services() {
               and functionality, and build custom solutions that leveage the
               power of both platforms.&quot;
             </p>
-            <div className="min-h-full min-w-[8px] bg-gradient-to-t from-yellow to-red"></div>
+            <div className="min-h-full min-w-[8px] bg-blue"></div>
           </div>
         </section>
         <section className="pt-[5%]">
@@ -218,13 +218,13 @@ export default function services() {
           </div>
           <a
             href="#"
-            className="uppercase bg-gradient-to-l from-yellow to-red text-white px-10 py-5 w-fit"
+            className="uppercase bg-blue text-white px-10 py-5 w-fit"
           >
             TALK WITH US TODAY
           </a>
         </section>
       </main>
-      <section className="mt-[10%] py-[5%] bg-gradient-to-l from-yellow/50 to-red/50">
+      <section className="mt-[10%] py-[5%] bg-blue/75 text-white">
         <h2 className="text-[48px] font-semibold leading-tight text-center">
           Customized Mulesoft solutions and exceptional results — our formula
           for happy clients
@@ -309,7 +309,7 @@ export default function services() {
         <div className="grid place-items-center pt-[5%]">
           <a
             href="#"
-            className="uppercase bg-gradient-to-l from-yellow to-red text-white px-10 py-5 w-fit"
+            className="uppercase bg-blue text-white px-10 py-5 w-fit"
           >
             Connect now
           </a>
