@@ -6,7 +6,7 @@ export default function ActiveLink({ href, children, className, ...props }) {
     <Link
       href={href}
       className={`${className} ${
-        router.pathname === href ? "text-[#e15e25]" : ""
+        router.pathname === href ? "text-[#009FD8]" : ""
       }`}
       {...props}
     >

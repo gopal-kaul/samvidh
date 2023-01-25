@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import person from "../../public/transparentperson.png";
+import person from "../../public/Hero.svg";
 import "swiper/css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper";
@@ -13,19 +13,19 @@ export default function Home() {
         <meta name="description" content="Samvidh" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      <main className="px-[10%] font-graphik pt-[5%]">
+      <main className="px-[10%] font-graphik pt-[3%]">
         <div className="flex flex-col md:flex-row gap-20">
-          <div className="relative overflow-clip md:w-1/3 w-full">
+          <div className="relative overflow-clip md:w-2/4 w-full">
             <Image src={person} className="w-full h-auto invisible" />
-            <div className="bg-gradient-to-l from-yellow to-red w-full h-[80%] absolute top-[100%] left-0 -z-10 animate-slideFast" />
+            <div className="w-full h-[80%] absolute top-[100%] left-0 -z-10 animate-slideFast" />
             <Image
               src={person}
               className="w-full h-full absolute top-[100%] left-0 animate-slideSlow"
             />
           </div>
-          <div className="animate-slideContent translate-y-[20%] w-full md:w-2/3 flex flex-col py-[10%] space-y-10">
+          <div className="animate-slideContent translate-y-[20%] w-full md:w-2/4 flex flex-col py-[10%] space-y-10">
             <h2 className="text-[48px] font-semibold leading-tight">
-              The Experts in Mulesoft Integration
+              The Experts in <span className="text-blue">Mulesoft</span> Integration
             </h2>
             <p className="pt-[10%] pb-[15%] md:py-0 text-[24px] leading-normal">
               Samvidh is the premier choice for Mulesoft services, offering a
@@ -35,7 +35,7 @@ export default function Home() {
             </p>
             <a
               href="#"
-              className="uppercase bg-gradient-to-l from-yellow to-red text-white px-16 py-3 w-fit"
+              className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit"
             >
               Take A Tour
             </a>
@@ -73,7 +73,7 @@ export default function Home() {
             </p>
           </div>
           <div className="w-full md:w-1/2">
-            <img src="/home.jpg" className="h-full object-cover" />
+            <img src="/Herob.svg" className="h-full object-cover" />
           </div>
         </div>
         <section className="pt-[10%]">
@@ -82,7 +82,7 @@ export default function Home() {
           </h2>
           <div className="flex flex-col gap-y-10 pt-[5%]">
             <div className="flex flex-col md:flex-row items-center gap-5">
-              <img src="/home.jpg" className="md:w-1/4" />
+              <img src="/Heroc.svg" className="md:w-1/4" />
               <p className="text-[20px] md:w-3/4 leading-normal md:pl-[7%]">
                 One of the key reasons to choose Samvidh is our team of highly
                 skilled and experienced professionals. Our team has a deep
@@ -94,7 +94,7 @@ export default function Home() {
               </p>
             </div>
             <div className="flex flex-col md:flex-row-reverse items-center gap-5">
-              <img src="/home.jpg" className="md:w-1/4" />
+              <img src="/Herod.svg" className="md:w-1/4" />
               <p className="text-[20px] md:w-3/4 leading-normal  md:pr-[7%]">
                 Technical expertise is important, but beyond that we also offer
                 a commitment to excellent customer service. We understand that
@@ -108,7 +108,7 @@ export default function Home() {
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center gap-5">
-              <img src="/home.jpg" className="md:w-1/4" />
+              <img src="/Heroe.svg" className="md:w-1/4" />
               <p className="text-[20px] md:w-3/4 leading-normal  md:pl-[7%]">
                 Another advantage of choosing Samvidh is our competitive
                 pricing. We believe in offering high-quality services at a fair
@@ -118,7 +118,7 @@ export default function Home() {
             </div>
           </div>
         </section>
-        <section className="pt-[10%]">
+        <section className="py-[10%]">
           <h2 className="text-[30px] font-semibold leading-tight text-center md:px-[10%]">
             Why you should be using Mulesoft Integration services
           </h2>
@@ -129,7 +129,7 @@ export default function Home() {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10 pt-[5%]">
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/icon.png" className="w-1/2" />
+              <img src="/Service-06.svg" className="w-1/2" />
               <h3 className="font-bold ">Improved efficiency</h3>
               <p className="md:px-[10%]">
                 Mulesoft can help a company integrate their systems and data,
@@ -139,7 +139,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/icon.png" className="w-1/2" />
+              <img src="/Service-07.svg" className="w-1/2" />
               <h3 className="font-bold">Enhanced agility</h3>
               <p className="md:px-[10%]">
                 Mulesoft&apos;s integration platform is designed to be flexible
@@ -149,7 +149,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/icon.png" className="w-1/2" />
+              <img src="/Service-08.svg" className="w-1/2" />
               <h3 className="font-bold">Increased revenue</h3>
               <p className="md:px-[10%]">
                 By exposing data and functionality through APIs, a company can
@@ -160,7 +160,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/icon.png" className="w-1/2" />
+              <img src="/Service-09.svg" className="w-1/2" />
               <h3 className="font-bold"> Better customer experience</h3>
               <p className="md:px-[10%]">
                 By integrating customer-facing systems and applications, a
@@ -170,7 +170,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/icon.png" className="w-1/2" />
+              <img src="/Service-10.svg" className="w-1/2" />
               <h3 className="font-bold">Improved data quality</h3>
               <p className="md:px-[10%]">
                 By integrating systems, a company can ensure that their data is
@@ -179,7 +179,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/icon.png" className="w-1/2" />
+              <img src="/Service-11.svg" className="w-1/2" />
               <h3 className="font-bold">Reduced risk</h3>
               <p className="md:px-[10%]">
                 By centralizing and standardizing integration, a company can
@@ -196,14 +196,14 @@ export default function Home() {
           <div className="grid place-items-center">
             <a
               href="#"
-              className="uppercase bg-gradient-to-l from-yellow to-red text-white px-10 py-5 w-fit"
+              className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit"
             >
               Book a call
             </a>
           </div>
         </section>
       </main>
-      <section className="mt-[5%] py-[5%] mb-[5%] bg-[#f7f7f7] px-[10%]">
+      {/* <section className="mt-[5%] py-[5%] mb-[5%] bg-[#f7f7f7] px-[10%]">
         <h2 className="text-[30px] font-semibold leading-tight text-end">
           Partners and certifications
         </h2>
@@ -217,7 +217,7 @@ export default function Home() {
           <img src="/home.jpg" />
           <img src="/home.jpg" />
         </div>
-      </section>
+      </section> */}
       <div className="px-[10%]">
         <section className="pt-[5%]">
           <h2 className="text-[30px] font-semibold leading-tight text-center">
@@ -265,7 +265,7 @@ export default function Home() {
           <h2 className="text-white font-bold text-center md:text-start text-[30px]">
             Let&apos;s build a solution for your needs
           </h2>
-          <button className="bg-gradient-to-l px-10 py-2 from-yellow to-red text-white">
+          <button className="bg-gradient-to-l px-10 py-2 from-blue to-blue text-white">
             Get Started
           </button>
         </section>
