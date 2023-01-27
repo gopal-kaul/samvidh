@@ -1548,6 +1548,11 @@ natural-compare@^1.4.0:
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
+next-export-fixer@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/next-export-fixer/-/next-export-fixer-1.0.3.tgz#b98823457e91a3251237c5b63ac513d3d8df8908"
+  integrity sha512-lcw8OQy5iMtHIyPak/Q34BRcI3BoirmuLJs/vQOzsFWPcOhYmbzMBvnN0Dty2FJbJ4zZdzZCNhqqlShVh4QpEg==
+
 next@13.1.2:
   version "13.1.2"
   resolved "https://registry.npmjs.org/next/-/next-13.1.2.tgz"

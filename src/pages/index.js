@@ -1,6 +1,17 @@
 import Head from "next/head";
 import Image from "next/image";
 import person from "../../public/Hero.svg";
+import Herob from "../../public/Herob.svg";
+import home from "../../public/home.jpg";
+import Heroc from "../../public/Heroc.svg";
+import Herod from "../../public/Herod.svg";
+import Heroe from "../../public/Heroe.svg";
+import Service06 from "../../public/Service-06.svg";
+import Service07 from "../../public/Service-07.svg";
+import Service08 from "../../public/Service-08.svg";
+import Service09 from "../../public/Service-09.svg";
+import Service10 from "../../public/Service-10.svg";
+import Service11 from "../../public/Service-11.svg";
 import "swiper/css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper";
@@ -35,7 +46,7 @@ export default function Home() {
             </p>
             <a
               href="#"
-              className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit"
+              className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
             >
               Take A Tour
             </a>
@@ -73,7 +84,7 @@ export default function Home() {
             </p>
           </div>
           <div className="w-full md:w-1/2">
-            <img src="/Herob.svg" className="h-full object-cover" />
+            <Image src={Herob} className="h-full object-cover"  />
           </div>
         </div>
         <section className="pt-[10%]">
@@ -82,7 +93,7 @@ export default function Home() {
           </h2>
           <div className="flex flex-col gap-y-10 pt-[5%]">
             <div className="flex flex-col md:flex-row items-center gap-5">
-              <img src="/Heroc.svg" className="md:w-1/4" />
+              <Image src={Heroc} className="md:w-1/4" />
               <p className="text-[20px] md:w-3/4 leading-normal md:pl-[7%]">
                 One of the key reasons to choose Samvidh is our team of highly
                 skilled and experienced professionals. Our team has a deep
@@ -94,7 +105,7 @@ export default function Home() {
               </p>
             </div>
             <div className="flex flex-col md:flex-row-reverse items-center gap-5">
-              <img src="/Herod.svg" className="md:w-1/4" />
+              <Image src={Herod} className="md:w-1/4" />
               <p className="text-[20px] md:w-3/4 leading-normal  md:pr-[7%]">
                 Technical expertise is important, but beyond that we also offer
                 a commitment to excellent customer service. We understand that
@@ -108,7 +119,7 @@ export default function Home() {
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center gap-5">
-              <img src="/Heroe.svg" className="md:w-1/4" />
+              <Image src={Heroe} className="md:w-1/4" />
               <p className="text-[20px] md:w-3/4 leading-normal  md:pl-[7%]">
                 Another advantage of choosing Samvidh is our competitive
                 pricing. We believe in offering high-quality services at a fair
@@ -129,7 +140,7 @@ export default function Home() {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10 pt-[5%]">
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/Service-06.svg" className="w-1/2" />
+              <Image src={Service06} className="w-1/2" />
               <h3 className="font-bold ">Improved efficiency</h3>
               <p className="md:px-[10%]">
                 Mulesoft can help a company integrate their systems and data,
@@ -139,7 +150,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/Service-07.svg" className="w-1/2" />
+              <Image src={Service07} className="w-1/2" />
               <h3 className="font-bold">Enhanced agility</h3>
               <p className="md:px-[10%]">
                 Mulesoft&apos;s integration platform is designed to be flexible
@@ -149,7 +160,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/Service-08.svg" className="w-1/2" />
+              <Image src={Service08} className="w-1/2" />
               <h3 className="font-bold">Increased revenue</h3>
               <p className="md:px-[10%]">
                 By exposing data and functionality through APIs, a company can
@@ -160,7 +171,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/Service-09.svg" className="w-1/2" />
+              <Image src={Service09} className="w-1/2" />
               <h3 className="font-bold"> Better customer experience</h3>
               <p className="md:px-[10%]">
                 By integrating customer-facing systems and applications, a
@@ -170,7 +181,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/Service-10.svg" className="w-1/2" />
+              <Image src={Service10} className="w-1/2" />
               <h3 className="font-bold">Improved data quality</h3>
               <p className="md:px-[10%]">
                 By integrating systems, a company can ensure that their data is
@@ -179,7 +190,7 @@ export default function Home() {
               </p>
             </div>
             <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <img src="/Service-11.svg" className="w-1/2" />
+              <Image src={Service11} className="w-1/2" />
               <h3 className="font-bold">Reduced risk</h3>
               <p className="md:px-[10%]">
                 By centralizing and standardizing integration, a company can
@@ -196,7 +207,7 @@ export default function Home() {
           <div className="grid place-items-center">
             <a
               href="#"
-              className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit"
+              className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
             >
               Book a call
             </a>
@@ -258,7 +269,7 @@ export default function Home() {
                 `}
               </style>
             </Swiper>
-            <img src="/home.jpg" className="w-1/2" />
+            <Image src={home} className="w-1/2" />
           </div>
         </section>
       </div>
@@ -266,7 +277,7 @@ export default function Home() {
           <h2 className="text-white font-bold text-center md:text-start text-[30px]">
             Let&apos;s build a solution for your needs
           </h2>
-          <button className="bg-gradient-to-l px-10 py-2 from-blue to-blue text-white">
+          <button className="bg-gradient-to-l px-10 py-2 from-blue to-blue text-white transition-shadow duration-500 ease-in-out hover:shadow-2xl hover:shadow-white">
             Get Started
           </button>
         </section>

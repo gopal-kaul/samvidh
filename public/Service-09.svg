@@ -3,352 +3,272 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 320 320" style="enable-background:new 0 0 320 320;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:5.000000e-02;fill:url(#SVGID_1_);}
-	.st1{opacity:0.8;}
-	.st2{fill:url(#SVGID_2_);}
-	.st3{opacity:0.8;fill:url(#SVGID_3_);}
-	.st4{opacity:0.8;fill:url(#SVGID_4_);}
-	.st5{opacity:0.2;fill:url(#SVGID_5_);}
-	.st6{fill:#0000FF;}
-	.st7{fill:#E44235;}
-	.st8{fill:#FFFFFF;}
-	.st9{opacity:0.7;}
-	.st10{opacity:0.72;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st11{fill:none;stroke:url(#SVGID_6_);stroke-width:0.5;stroke-miterlimit:10;}
-	.st12{fill:url(#SVGID_7_);}
-	.st13{fill:url(#SVGID_8_);}
-	.st14{fill:url(#SVGID_9_);}
-	.st15{fill:url(#SVGID_10_);}
-	.st16{fill:url(#SVGID_11_);}
-	.st17{fill:url(#SVGID_12_);}
-	.st18{opacity:0.5;fill:url(#SVGID_13_);}
-	.st19{opacity:0.15;}
-	.st20{fill:url(#SVGID_14_);}
-	.st21{fill:#009FD8;}
-	.st22{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st23{opacity:0.72;}
-	.st24{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st25{fill:url(#SVGID_15_);}
-	.st26{fill:url(#SVGID_16_);}
-	.st27{fill:url(#SVGID_17_);}
-	.st28{fill:url(#SVGID_18_);}
-	.st29{fill:url(#SVGID_19_);}
-	.st30{fill:url(#SVGID_20_);}
-	.st31{fill:url(#SVGID_21_);}
-	.st32{fill:url(#SVGID_22_);}
-	.st33{fill:url(#SVGID_23_);}
-	.st34{fill:url(#SVGID_24_);}
-	.st35{fill:url(#SVGID_25_);}
-	.st36{fill:url(#SVGID_26_);}
-	.st37{fill:url(#SVGID_27_);}
-	.st38{fill:url(#SVGID_28_);}
-	.st39{fill:url(#SVGID_29_);}
-	.st40{fill:url(#SVGID_30_);}
-	.st41{fill:url(#SVGID_31_);}
-	.st42{fill:url(#SVGID_32_);}
-	.st43{opacity:0.22;fill:url(#SVGID_33_);}
-	.st44{opacity:0.4;fill:#EAE9E8;}
-	.st45{fill:url(#SVGID_34_);}
-	.st46{fill:url(#SVGID_35_);}
-	.st47{fill:url(#SVGID_36_);}
-	.st48{fill:url(#SVGID_37_);}
-	.st49{fill:url(#SVGID_38_);}
-	.st50{fill:url(#SVGID_39_);}
-	.st51{fill:url(#SVGID_40_);}
-	.st52{fill:url(#SVGID_41_);}
-	.st53{fill:url(#SVGID_42_);}
-	.st54{fill:none;stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st55{fill:url(#SVGID_43_);}
-	.st56{fill:url(#SVGID_44_);}
-	.st57{fill:url(#SVGID_45_);}
-	.st58{fill:url(#SVGID_46_);}
-	.st59{fill:url(#SVGID_47_);}
-	.st60{fill:url(#SVGID_48_);}
-	.st61{fill:url(#SVGID_49_);}
-	.st62{fill:url(#SVGID_50_);}
-	.st63{fill:url(#SVGID_51_);}
-	.st64{fill:url(#SVGID_52_);}
-	.st65{fill:url(#SVGID_53_);}
-	.st66{fill:url(#SVGID_54_);}
-	.st67{fill:url(#SVGID_55_);}
-	.st68{fill:url(#SVGID_56_);}
-	.st69{fill:url(#SVGID_57_);}
-	.st70{fill:none;stroke:url(#SVGID_58_);stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st71{fill:none;stroke:url(#SVGID_59_);stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st72{fill:none;stroke:url(#SVGID_60_);stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st73{fill:none;stroke:url(#SVGID_61_);stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st74{fill:none;stroke:url(#SVGID_62_);stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st75{fill:url(#SVGID_63_);}
-	.st76{fill:url(#SVGID_64_);}
-	.st77{fill:url(#SVGID_65_);}
-	.st78{fill:url(#SVGID_66_);}
-	.st79{fill:url(#SVGID_67_);}
-	.st80{fill:url(#SVGID_68_);}
-	.st81{fill:url(#SVGID_69_);}
-	.st82{fill:url(#SVGID_70_);}
-	.st83{fill:url(#SVGID_71_);}
-	.st84{fill:url(#SVGID_72_);}
-	.st85{fill:url(#SVGID_73_);}
-	.st86{fill:none;stroke:url(#SVGID_74_);stroke-miterlimit:10;}
-	.st87{fill:none;stroke:#0068D8;stroke-miterlimit:10;}
-	.st88{fill:#F4F4F4;}
-	.st89{fill-rule:evenodd;clip-rule:evenodd;fill:#009FD8;}
-	.st90{opacity:0.4;fill-rule:evenodd;clip-rule:evenodd;fill:#EAE9E8;}
-	.st91{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_75_);}
-	.st92{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_76_);}
-	.st93{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_77_);}
-	.st94{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_78_);}
-	.st95{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_79_);}
-	.st96{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_80_);}
-	.st97{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_81_);}
-	.st98{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_82_);}
-	.st99{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_83_);}
-	.st100{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_84_);}
-	.st101{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_85_);}
-	.st102{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_86_);}
-	.st103{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_87_);}
-	.st104{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_88_);}
-	.st105{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_89_);}
-	.st106{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_90_);}
-	.st107{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_91_);}
-	.st108{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_92_);}
-	.st109{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_93_);}
-	.st110{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_94_);}
-	.st111{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_95_);}
-	.st112{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_96_);}
-	.st113{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_97_);}
-	.st114{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_98_);}
-	.st115{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_99_);}
-	.st116{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_100_);}
-	.st117{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_101_);}
-	.st118{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_102_);}
-	.st119{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_103_);}
-	.st120{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_104_);}
-	.st121{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_105_);}
-	.st122{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_106_);}
-	.st123{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_107_);}
-	.st124{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_108_);}
-	.st125{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_109_);}
-	.st126{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_110_);}
-	.st127{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_111_);}
-	.st128{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_112_);}
-	.st129{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_113_);}
-	.st130{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_114_);}
-	.st131{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_115_);}
-	.st132{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_116_);}
-	.st133{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_117_);}
-	.st134{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_118_);}
-	.st135{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_119_);}
-	.st136{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_120_);}
-	.st137{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_121_);}
-	.st138{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_122_);}
-	.st139{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_123_);}
-	.st140{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_124_);}
-	.st141{opacity:0.2;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_125_);}
-	.st142{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_126_);}
-	.st143{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_127_);}
-	.st144{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_128_);}
-	.st145{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_129_);}
-	.st146{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_130_);}
-	.st147{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_131_);}
-	.st148{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_132_);}
-	.st149{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_133_);}
-	.st150{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_134_);}
-	.st151{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_135_);}
-	.st152{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_136_);}
-	.st153{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_137_);}
-	.st154{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_138_);}
-	.st155{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_139_);}
-	.st156{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_140_);}
-	.st157{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_141_);}
-	.st158{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_142_);}
-	.st159{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_143_);}
-	.st160{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_144_);}
-	.st161{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_145_);}
-	.st162{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_146_);}
-	.st163{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_147_);}
-	.st164{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_148_);}
-	.st165{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_149_);}
-	.st166{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_150_);}
-	.st167{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_151_);}
-	.st168{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_152_);}
-	.st169{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_153_);}
-	.st170{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_154_);}
-	.st171{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_155_);}
-	.st172{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_156_);}
-	.st173{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_157_);}
-	.st174{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_158_);}
-	.st175{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_159_);}
-	.st176{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_160_);}
-	.st177{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_161_);}
-	.st178{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_162_);}
-	.st179{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_163_);}
-	.st180{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_164_);}
-	.st181{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_165_);}
-	.st182{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_166_);}
-	.st183{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_167_);}
-	.st184{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_168_);}
-	.st185{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_169_);}
-	.st186{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_170_);}
-	.st187{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_171_);}
-	.st188{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_172_);}
-	.st189{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_173_);}
-	.st190{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_174_);}
-	.st191{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_175_);}
-	.st192{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_176_);}
-	.st193{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_177_);}
-	.st194{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_178_);}
-	.st195{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_179_);}
-	.st196{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_180_);}
-	.st197{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_181_);}
-	.st198{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_182_);}
-	.st199{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_183_);}
-	.st200{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_184_);}
-	.st201{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_185_);}
-	.st202{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_186_);}
-	.st203{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_187_);}
-	.st204{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_188_);}
-	.st205{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_189_);}
-	.st206{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_190_);}
-	.st207{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_191_);}
-	.st208{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_192_);}
-	.st209{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_193_);}
-	.st210{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_194_);}
-	.st211{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_195_);}
-	.st212{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_196_);}
-	.st213{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_197_);}
-	.st214{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_198_);}
-	.st215{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_199_);}
-	.st216{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_200_);}
-	.st217{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_201_);}
-	.st218{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_202_);}
-	.st219{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_203_);}
-	.st220{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_204_);}
-	.st221{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_205_);}
-	.st222{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_206_);}
-	.st223{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_207_);}
-	.st224{opacity:0.2;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_208_);}
-	.st225{fill:url(#SVGID_209_);}
-	.st226{fill:url(#SVGID_210_);}
-	.st227{fill:#FFFFFF;stroke:url(#SVGID_211_);stroke-miterlimit:10;}
-	.st228{fill:url(#SVGID_212_);}
-	.st229{fill:url(#SVGID_213_);}
-	.st230{fill:url(#SVGID_214_);}
-	.st231{fill:url(#SVGID_215_);}
-	.st232{fill:#FFFFFF;stroke:url(#SVGID_216_);stroke-miterlimit:10;}
-	.st233{fill:url(#SVGID_217_);}
-	.st234{fill:url(#SVGID_218_);}
-	.st235{fill:url(#SVGID_219_);}
-	.st236{fill:url(#SVGID_220_);}
-	.st237{opacity:0.1;fill:url(#SVGID_221_);}
-	.st238{fill:url(#SVGID_222_);}
-	.st239{fill:url(#SVGID_223_);}
-	.st240{fill:url(#SVGID_224_);}
-	.st241{fill:url(#SVGID_225_);}
-	.st242{fill:url(#SVGID_226_);}
-	.st243{fill:url(#SVGID_227_);}
-	.st244{fill:url(#SVGID_228_);}
-	.st245{fill:url(#SVGID_229_);}
-	.st246{fill:url(#SVGID_230_);}
-	.st247{fill:url(#SVGID_231_);}
-	.st248{fill:url(#SVGID_232_);}
-	.st249{fill:url(#SVGID_233_);}
-	.st250{fill:url(#SVGID_234_);}
-	.st251{fill:url(#SVGID_235_);}
-	.st252{fill:url(#SVGID_236_);}
-	.st253{fill:url(#SVGID_237_);}
-	.st254{fill:url(#SVGID_238_);}
-	.st255{fill:url(#SVGID_239_);}
-	.st256{fill:url(#SVGID_240_);}
-	.st257{fill:url(#SVGID_241_);}
-	.st258{fill:url(#SVGID_242_);}
-	.st259{fill:url(#SVGID_243_);}
-	.st260{fill:url(#SVGID_244_);}
-	.st261{fill:url(#SVGID_245_);}
-	.st262{fill:url(#SVGID_246_);}
-	.st263{fill:url(#SVGID_247_);}
-	.st264{fill:url(#SVGID_248_);}
-	.st265{fill:url(#SVGID_249_);}
-	.st266{fill:url(#SVGID_250_);}
-	.st267{fill:url(#SVGID_251_);}
-	.st268{fill:url(#SVGID_252_);}
-	.st269{fill:url(#SVGID_253_);}
-	.st270{fill:url(#SVGID_254_);}
-	.st271{fill:url(#SVGID_255_);}
-	.st272{fill:url(#SVGID_256_);}
-	.st273{fill:url(#SVGID_257_);}
-	.st274{fill:url(#SVGID_258_);}
-	.st275{fill:url(#SVGID_259_);}
-	.st276{fill:url(#SVGID_260_);}
-	.st277{fill:url(#SVGID_261_);}
-	.st278{fill:url(#SVGID_262_);}
-	.st279{fill:url(#SVGID_263_);}
-	.st280{fill:url(#SVGID_264_);}
-	.st281{fill:#FFFFFF;stroke:url(#SVGID_265_);stroke-width:9;stroke-miterlimit:10;}
-	.st282{fill:url(#SVGID_266_);}
-	.st283{fill:url(#SVGID_267_);}
-	.st284{fill:url(#SVGID_268_);}
-	.st285{fill:url(#SVGID_269_);}
-	.st286{fill:url(#SVGID_270_);}
-	.st287{fill:url(#SVGID_271_);}
-	.st288{fill:url(#SVGID_272_);}
-	.st289{fill:url(#SVGID_273_);}
-	.st290{fill:url(#SVGID_274_);}
-	.st291{fill:url(#SVGID_275_);}
-	.st292{fill:url(#SVGID_276_);}
-	.st293{fill:url(#SVGID_277_);}
-	.st294{fill:url(#SVGID_278_);}
-	.st295{fill:url(#SVGID_279_);}
-	.st296{fill:url(#SVGID_280_);}
-	.st297{fill:url(#SVGID_281_);}
-	.st298{fill:url(#SVGID_282_);}
-	.st299{fill:url(#SVGID_283_);}
-	.st300{fill:url(#SVGID_284_);}
-	.st301{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_285_);}
-	.st302{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_286_);}
-	.st303{fill:url(#SVGID_287_);}
+	.st0{opacity:5.000000e-02;fill:url(#SVGID_3_);enable-background:new    ;}
+	.st1{opacity:0.7;}
+	.st2{fill:#009FD8;}
+	.st3{opacity:0.2;fill:#008CB2;enable-background:new    ;}
+	.st4{fill:#E44235;}
+	.st5{fill:#FFFFFF;}
+	.st6{opacity:0.72;stroke:#FFFFFF;stroke-miterlimit:10;enable-background:new    ;}
+	.st7{fill:none;stroke:url(#SVGID_4_);stroke-width:0.5;stroke-miterlimit:10;}
+	.st8{fill:#0084A3;}
+	.st9{fill:#0094BC;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st11{opacity:0.8;}
+	.st12{opacity:0.72;}
+	.st13{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st14{fill:url(#SVGID_5_);}
+	.st15{fill:url(#SVGID_6_);}
+	.st16{fill:url(#SVGID_7_);}
+	.st17{fill:url(#SVGID_8_);}
+	.st18{fill:url(#SVGID_9_);}
+	.st19{fill:url(#SVGID_10_);}
+	.st20{fill:url(#SVGID_11_);}
+	.st21{fill:url(#SVGID_12_);}
+	.st22{fill:url(#SVGID_13_);}
+	.st23{fill:url(#SVGID_14_);}
+	.st24{fill:url(#SVGID_15_);}
+	.st25{fill:url(#SVGID_16_);}
+	.st26{fill:url(#SVGID_17_);}
+	.st27{fill:url(#SVGID_18_);}
+	.st28{opacity:0.1;fill:#0084A3;enable-background:new    ;}
+	.st29{opacity:0.4;fill:#EAE9E8;enable-background:new    ;}
+	.st30{fill:none;stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st31{fill:url(#SVGID_19_);}
+	.st32{fill:url(#SVGID_20_);}
+	.st33{fill:url(#SVGID_21_);}
+	.st34{fill:url(#SVGID_22_);}
+	.st35{fill:url(#SVGID_23_);}
+	.st36{fill:url(#SVGID_24_);}
+	.st37{fill:url(#SVGID_25_);}
+	.st38{fill:url(#SVGID_26_);}
+	.st39{fill:url(#SVGID_27_);}
+	.st40{fill:url(#SVGID_28_);}
+	.st41{fill:url(#SVGID_29_);}
+	.st42{fill:url(#SVGID_30_);}
+	.st43{fill:url(#SVGID_31_);}
+	.st44{fill:url(#SVGID_32_);}
+	.st45{fill:url(#SVGID_33_);}
+	.st46{fill:none;stroke:#009FD8;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st47{fill:url(#SVGID_34_);}
+	.st48{opacity:0.72;enable-background:new    ;}
+	.st49{fill:none;stroke:#009FD8;stroke-miterlimit:10;}
+	.st50{fill:none;stroke:#0068D8;stroke-miterlimit:10;}
+	.st51{fill:#F4F4F4;}
+	.st52{fill-rule:evenodd;clip-rule:evenodd;fill:#009FD8;}
+	.st53{opacity:0.4;fill-rule:evenodd;clip-rule:evenodd;fill:#EAE9E8;enable-background:new    ;}
+	.st54{opacity:0.2;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_35_);enable-background:new    ;}
+	.st55{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_36_);}
+	.st56{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_37_);}
+	.st57{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_38_);}
+	.st58{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_39_);}
+	.st59{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_40_);}
+	.st60{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_41_);}
+	.st61{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_42_);}
+	.st62{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_43_);}
+	.st63{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_44_);}
+	.st64{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_45_);}
+	.st65{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_46_);}
+	.st66{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_47_);}
+	.st67{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_48_);}
+	.st68{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_49_);}
+	.st69{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_50_);}
+	.st70{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_51_);}
+	.st71{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_52_);}
+	.st72{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_53_);}
+	.st73{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_54_);}
+	.st74{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_55_);}
+	.st75{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_56_);}
+	.st76{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_57_);}
+	.st77{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_58_);}
+	.st78{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_59_);}
+	.st79{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_60_);}
+	.st80{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_61_);}
+	.st81{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_62_);}
+	.st82{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_63_);}
+	.st83{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_64_);}
+	.st84{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_65_);}
+	.st85{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_66_);}
+	.st86{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_67_);}
+	.st87{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_68_);}
+	.st88{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_69_);}
+	.st89{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_70_);}
+	.st90{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_71_);}
+	.st91{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_72_);}
+	.st92{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_73_);}
+	.st93{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_74_);}
+	.st94{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_75_);}
+	.st95{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_76_);}
+	.st96{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_77_);}
+	.st97{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_78_);}
+	.st98{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_79_);}
+	.st99{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_80_);}
+	.st100{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_81_);}
+	.st101{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_82_);}
+	.st102{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_83_);}
+	.st103{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_84_);}
+	.st104{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_85_);}
+	.st105{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_86_);}
+	.st106{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_87_);}
+	.st107{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_88_);}
+	.st108{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_89_);}
+	.st109{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_90_);}
+	.st110{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_91_);}
+	.st111{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_92_);}
+	.st112{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_93_);}
+	.st113{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_94_);}
+	.st114{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_95_);}
+	.st115{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_96_);}
+	.st116{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_97_);}
+	.st117{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_98_);}
+	.st118{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_99_);}
+	.st119{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_100_);}
+	.st120{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_101_);}
+	.st121{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_102_);}
+	.st122{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_103_);}
+	.st123{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_104_);}
+	.st124{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_105_);}
+	.st125{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_106_);}
+	.st126{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_107_);}
+	.st127{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_108_);}
+	.st128{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_109_);}
+	.st129{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_110_);}
+	.st130{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_111_);}
+	.st131{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_112_);}
+	.st132{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_113_);}
+	.st133{opacity:0.2;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_114_);enable-background:new    ;}
+	.st134{fill:#FFFFFF;stroke:url(#SVGID_115_);stroke-miterlimit:10;}
+	.st135{fill:url(#SVGID_116_);}
+	.st136{fill:url(#SVGID_117_);}
+	.st137{fill:url(#SVGID_118_);}
+	.st138{fill:url(#SVGID_119_);}
+	.st139{fill:#FFFFFF;stroke:url(#SVGID_120_);stroke-miterlimit:10;}
+	.st140{fill:url(#SVGID_121_);}
+	.st141{fill:url(#SVGID_122_);}
+	.st142{fill:url(#SVGID_123_);}
+	.st143{fill:url(#SVGID_124_);}
+	.st144{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_125_);}
+	.st145{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_126_);}
+	.st146{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_127_);}
+	.st147{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_128_);}
+	.st148{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_129_);}
+	.st149{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_130_);}
+	.st150{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_131_);}
+	.st151{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_132_);}
+	.st152{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_133_);}
+	.st153{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_134_);}
+	.st154{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_135_);}
+	.st155{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_136_);}
+	.st156{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_137_);}
+	.st157{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_138_);}
+	.st158{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_139_);}
+	.st159{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_140_);}
+	.st160{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_141_);}
+	.st161{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_142_);}
+	.st162{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_143_);}
+	.st163{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_144_);}
+	.st164{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_145_);}
+	.st165{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_146_);}
+	.st166{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_147_);}
+	.st167{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_148_);}
+	.st168{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_149_);}
+	.st169{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_150_);}
+	.st170{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_151_);}
+	.st171{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_152_);}
+	.st172{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_153_);}
+	.st173{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_154_);}
+	.st174{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_155_);}
+	.st175{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_156_);}
+	.st176{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_157_);}
+	.st177{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_158_);}
+	.st178{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_159_);}
+	.st179{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_160_);}
+	.st180{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_161_);}
+	.st181{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_162_);}
+	.st182{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_163_);}
+	.st183{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_164_);}
+	.st184{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_165_);}
+	.st185{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_166_);}
+	.st186{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_167_);}
+	.st187{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_168_);}
+	.st188{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_169_);}
+	.st189{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_170_);}
+	.st190{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_171_);}
+	.st191{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_172_);}
+	.st192{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_173_);}
+	.st193{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_174_);}
+	.st194{opacity:0.1;fill:url(#SVGID_175_);enable-background:new    ;}
+	.st195{fill:url(#SVGID_176_);}
+	.st196{fill:url(#SVGID_177_);}
+	.st197{opacity:0.3;}
+	.st198{fill:url(#SVGID_178_);}
+	.st199{fill:url(#SVGID_179_);}
+	.st200{opacity:0.3;fill:#009FD8;enable-background:new    ;}
+	.st201{fill:url(#SVGID_180_);}
+	.st202{fill:#ECECEC;}
+	.st203{fill:#007CFF;}
+	.st204{fill:#1A2E35;}
+	.st205{opacity:0.2;fill:#007CFF;enable-background:new    ;}
+	.st206{opacity:0.5;fill:#FFFFFF;enable-background:new    ;}
+	.st207{opacity:0.4;fill:#007CFF;enable-background:new    ;}
+	.st208{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+	.st209{opacity:0.5;fill:#007CFF;enable-background:new    ;}
+	.st210{fill:url(#SVGID_181_);}
+	.st211{fill:url(#SVGID_182_);}
+	.st212{opacity:0.3;fill:#007CFF;enable-background:new    ;}
+	.st213{opacity:0.8;fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;enable-background:new    ;}
+	.st214{opacity:5.000000e-02;fill:url(#SVGID_183_);enable-background:new    ;}
+	.st215{fill:url(#SVGID_184_);}
+	.st216{fill:url(#SVGID_185_);}
+	.st217{fill:#E7E7E7;}
+	.st218{fill:#E1E1E1;}
+	.st219{opacity:0.5;fill:#FAFAFA;enable-background:new    ;}
+	.st220{opacity:0.6;fill:#FFFFFF;enable-background:new    ;}
+	.st221{fill:#F0F0F0;}
+	.st222{fill:#121F23;}
+	.st223{opacity:0.1;enable-background:new    ;}
+	.st224{fill:none;stroke:#007CFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st225{fill:none;stroke:#007CFF;stroke-miterlimit:10;}
+	.st226{opacity:0.4;fill:#FFFFFF;enable-background:new    ;}
+	.st227{opacity:0.3;fill:#FFFFFF;enable-background:new    ;}
+	.st228{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st229{opacity:0.6;fill:#1A2E35;enable-background:new    ;}
 </style>
 <g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="68.0706" y1="169.2686" x2="251.9294" y2="169.2686">
-		<stop  offset="0" style="stop-color:#328AB6"/>
-		<stop  offset="1" style="stop-color:#0068D8"/>
-	</linearGradient>
-	<path style="fill:url(#SVGID_1_);" d="M98.7,233.6c-2.5,0-2.5-3.7,0-3.7h87c2.5,0,2.5,3.7,0,3.7H98.7z M98.7,256.1
-		c-2.5,0-2.5-3.7,0-3.7h56c2.5,0,2.5,3.7,0,3.7H98.7z M163.6,256.1c-2.5,0-2.5-3.7,0-3.7h22.1c2.5,0,2.5,3.7,0,3.7H163.6z
-		 M98.7,244.8c-2.5,0-2.5-3.7,0-3.7h13.1c2.5,0,2.5,3.7,0,3.7H98.7z M120.8,244.8c-2.5,0-2.5-3.7,0-3.7h64.8c2.5,0,2.5,3.7,0,3.7
-		H120.8z M151.7,108.9c0,17.1,19.7,17.1,19.7,0C171.4,96.2,151.7,96.2,151.7,108.9z M155.9,124.1c-4.5-2.3-7.9-7.3-7.9-15.2
-		c0-17.7,27.2-17.7,27.2,0c0,9.9-5.9,16.6-13.6,16.6C159.6,125.5,157.7,125,155.9,124.1L155.9,124.1z M163.4,172.4l4.2,43.8
-		c0.1,2.4,1.2,2.7,3.6,2.6c2.2,0,3.6-0.2,3.5-2.5c-0.4-22-0.6-50.6-0.7-73.1c0-2.4,3.7-2.5,3.7,0l0.1,27.5c0.1,4.4,4,3.1,4-1.1
-		c0.1-13.4,0-18.4-0.4-31.2c-0.2-6.5-14.1-7.4-19.7-7.5c-5.7,0-11.4,0.6-15.4,2.3c-2.8,1.2-4.7,2.9-4.7,5.2
-		c-0.4,12.8-0.5,17.8-0.4,31.2c0,4.2,4,5.6,4,1.1l0.2-27.5c0-2.4,3.7-2.4,3.7,0c-0.1,22.7-0.3,50.9-0.7,73.1c0,2,1.9,2,3.7,2
-		c3.1,0.1,3.2-0.1,3.4-2.4l4.2-43.7C159.9,170.1,163.2,170.1,163.4,172.4L163.4,172.4z M163.9,216.4l-2.4-24.4l-2.3,24.4
-		c-0.4,5.1-3.4,5.8-7.3,5.7c-3.5-0.1-7.4-0.1-7.3-5.8l0.5-39.3c-3.7,1.2-7.7-2.1-7.7-7.3c-0.1-13.4,0-18.6,0.4-31.3
-		c0.3-9.7,15.7-11.1,23.9-11.1c8.1,0,23.2,1.5,23.5,11.1c0.4,12.8,0.5,18,0.4,31.3c0,5.2-4,8.6-7.7,7.3l0.5,39.3
-		c0.1,4.9-3.3,6.2-7.2,6.3C167.3,222.6,164.2,221.3,163.9,216.4L163.9,216.4z M108.6,108.2l-1.8,5.4c-0.3,0.8-1,1.3-1.9,1.3l-5.6,0
-		l4.6,3.3c0.7,0.5,0.9,1.4,0.7,2.2l-1.8,5.4l4.6-3.4c0.7-0.5,1.6-0.5,2.2,0l4.6,3.3l-1.8-5.4c-0.3-0.8,0-1.6,0.7-2.1l4.6-3.3l-5.7,0
-		c-0.8,0-1.5-0.6-1.8-1.3L108.6,108.2z M103.7,111.2l3.1-9.6c0.6-1.7,3-1.7,3.6,0l3.1,9.6l10,0c2-0.1,2.7,2.3,1.2,3.4l-8.2,5.9
-		l3.1,9.6v0c0.6,1.7-1.4,3.1-2.9,2.1l-8.2-6l-8.1,5.9c-1.6,1.2-3.5-0.3-3-2l3.1-9.6l-8.2-5.9c-1.5-1.1-0.7-3.4,1.1-3.4L103.7,111.2z
-		 M108.6,190.8l-1.8,5.4c-0.3,0.8-1,1.3-1.9,1.3h-5.6l4.6,3.3c0.7,0.5,0.9,1.4,0.7,2.2l-1.8,5.4l4.6-3.4c0.7-0.5,1.6-0.5,2.2,0
-		l4.6,3.3l-1.8-5.4c-0.3-0.8,0-1.6,0.7-2.1l4.6-3.3h-5.7c-0.8,0-1.5-0.5-1.8-1.3L108.6,190.8z M103.7,193.8l3.1-9.6
-		c0.6-1.7,3-1.7,3.6,0l3.1,9.6l10,0c2-0.1,2.7,2.3,1.2,3.4l-8.2,5.9l3.1,9.6c0.6,1.7-1.4,3.1-2.9,2.1l-8.2-6l-8.1,5.9
-		c-1.6,1.2-3.5-0.3-3-2l3.1-9.6l-8.2-5.9c-1.5-1.1-0.7-3.4,1.1-3.4L103.7,193.8z M108.6,149.5l-1.8,5.4c-0.3,0.8-1,1.3-1.9,1.3
-		l-5.6,0l4.6,3.3c0.7,0.5,0.9,1.4,0.7,2.2l-1.8,5.4l4.6-3.4c0.7-0.5,1.6-0.5,2.2,0l4.6,3.3l-1.8-5.4c-0.3-0.8,0-1.6,0.7-2.1l4.6-3.3
-		l-5.7,0c-0.8,0-1.5-0.6-1.8-1.3L108.6,149.5z M103.7,152.5l3.1-9.6c0.6-1.7,3-1.7,3.6,0l3.1,9.6l10,0c2-0.1,2.7,2.3,1.2,3.4
-		l-8.2,5.9l3.1,9.6c0.6,1.7-1.4,3.1-2.9,2.1l-8.2-6l-8.1,5.9c-1.6,1.2-3.5-0.3-3-2l3.1-9.6l-8.2-5.9c-1.5-1.1-0.7-3.4,1.1-3.4
-		L103.7,152.5z M213.7,263.7c-0.6-0.8-0.4-2,0.4-2.6c0.8-0.6,2-0.4,2.6,0.4l6.7,9.1l16.4-20.2c0.6-0.8,1.8-0.9,2.6-0.3
-		c0.8,0.6,0.9,1.8,0.3,2.6l-17.9,22c-0.8,1-2.2,1-3,0L213.7,263.7z M206.3,240.5h14.3V229h-14.3c-1,0-1.9-0.8-1.9-1.9v-43.7
-		c0-1,0.8-1.9,1.9-1.9h14.3v-11.5h-14.3c-1,0-1.9-0.8-1.9-1.9v-43.7c0-1,0.8-1.9,1.9-1.9h14.3V82.9h-29.5v3.6c0,1-0.8,1.9-1.9,1.9
-		l-76,0c-1,0-1.9-0.8-1.9-1.9v-3.6l-29.5,0v181.3h122.5v-21.9C204.5,241.3,205.3,240.5,206.3,240.5L206.3,240.5z M224.4,240.5h6.4
-		V229h-6.4V240.5z M234.5,240.5h15.5c1,0,1.9,0.8,1.9,1.9v43.7c0,1-0.8,1.9-1.9,1.9h-43.7c-1,0-1.9-0.8-1.9-1.9v-8H69.9
-		c-1,0-1.9-0.8-1.9-1.9l0-205.3c0-1,0.8-1.9,1.9-1.9h41.5v-3.7c0-1,0.8-1.9,1.9-1.9h17l0-11c0-1,0.8-1.9,1.9-1.9h38.4
-		c1,0,1.9,0.8,1.9,1.9v11h17c1,0,1.9,0.8,1.9,1.9V69h41.5c1,0,1.9,0.8,1.9,1.9v51.7h15.5c1,0,1.9,0.8,1.9,1.9v43.7
-		c0,1-0.8,1.9-1.9,1.9h-15.5v11.5h15.5c1,0,1.9,0.8,1.9,1.9v43.7c0,1-0.8,1.9-1.9,1.9h-15.5L234.5,240.5z M204.5,274.4v-6.4H80.1
-		c-1,0-1.9-0.8-1.9-1.9v-185c0-1,0.8-1.9,1.9-1.9h31.3v-6.4H71.8v201.6L204.5,274.4z M248.2,244.2h-40v40h40V244.2z M213.7,204.8
-		c-0.6-0.8-0.4-2,0.4-2.6c0.8-0.6,2-0.4,2.6,0.4l6.7,9.1l16.4-20.2c0.6-0.8,1.8-0.9,2.6-0.3c0.8,0.6,0.9,1.8,0.3,2.6l-17.9,22
-		c-0.8,1-2.2,1-3,0L213.7,204.8z M224.4,181.5h6.4v-11.5h-6.4L224.4,181.5z M248.2,185.3h-40v40h40V185.3z M213.7,145.8
-		c-0.6-0.8-0.4-2,0.4-2.6c0.8-0.6,2-0.4,2.6,0.4l6.7,9.1l16.4-20.2c0.6-0.8,1.8-0.9,2.6-0.3c0.8,0.6,0.9,1.8,0.3,2.6l-17.9,22
-		c-0.8,1-2.2,1-3,0L213.7,145.8z M224.4,122.6h6.4V72.8h-39.6v6.4h31.3c1,0,1.9,0.8,1.9,1.9L224.4,122.6L224.4,122.6z M248.2,126.4
-		h-40v40h40V126.4z M132.1,67.2h-17v17.4h72.3V67.2h-17c-1,0-1.9-0.8-1.9-1.9v-11H134v11C134,66.3,133.1,67.2,132.1,67.2L132.1,67.2
-		z"/>
+	<path class="st2" d="M98.5,224.3c-2.5,0-2.5-3.7,0-3.7h87c2.5,0,2.5,3.7,0,3.7H98.5z M98.5,247c-2.5,0-2.5-3.7,0-3.7h56
+		c2.5,0,2.5,3.7,0,3.7H98.5z M163.4,247c-2.5,0-2.5-3.7,0-3.7h22.1c2.5,0,2.5,3.7,0,3.7H163.4z M98.5,235.7c-2.5,0-2.5-3.7,0-3.7
+		h13.1c2.5,0,2.5,3.7,0,3.7H98.5z M120.7,235.7c-2.5,0-2.5-3.7,0-3.7h64.8c2.5,0,2.5,3.7,0,3.7H120.7z M151.5,99.8
+		c0,17.1,19.7,17.1,19.7,0C171.2,87,151.5,87,151.5,99.8z M155.7,115c-4.5-2.3-7.9-7.3-7.9-15.2c0-17.7,27.2-17.7,27.2,0
+		c0,9.9-5.9,16.6-13.6,16.6C159.4,116.3,157.5,115.8,155.7,115L155.7,115z M163.2,163.2l4.2,43.8c0.1,2.4,1.2,2.7,3.6,2.6
+		c2.2,0,3.6-0.2,3.5-2.5c-0.4-22-0.6-50.6-0.7-73.1c0-2.4,3.7-2.5,3.7,0l0.1,27.5c0.1,4.4,4,3.1,4-1.1c0.1-13.4,0-18.4-0.4-31.2
+		c-0.2-6.5-14.1-7.4-19.7-7.5c-5.7,0-11.4,0.6-15.4,2.3c-2.8,1.2-4.7,2.9-4.7,5.2c-0.4,12.8-0.5,17.8-0.4,31.2c0,4.2,4,5.6,4,1.1
+		l0.2-27.5c0-2.4,3.7-2.4,3.7,0c-0.1,22.7-0.3,50.9-0.7,73.1c0,2,1.9,2,3.7,2c3.1,0.1,3.2-0.1,3.4-2.4l4.2-43.7
+		C159.7,160.8,163.1,161,163.2,163.2L163.2,163.2z M163.7,207.3l-2.4-24.4l-2.3,24.4c-0.4,5.1-3.4,5.8-7.3,5.7
+		c-3.5-0.1-7.4-0.1-7.3-5.8l0.5-39.3c-3.7,1.2-7.7-2.1-7.7-7.3c-0.1-13.4,0-18.6,0.4-31.3c0.3-9.7,15.7-11.1,23.9-11.1
+		c8.1,0,23.2,1.5,23.5,11.1c0.4,12.8,0.5,18,0.4,31.3c0,5.2-4,8.6-7.7,7.3l0.5,39.3c0.1,4.9-3.3,6.2-7.2,6.3
+		C167.1,213.5,164,212,163.7,207.3L163.7,207.3z M108.4,99l-1.8,5.4c-0.3,0.8-1,1.3-1.9,1.3h-5.6l4.6,3.3c0.7,0.5,0.9,1.4,0.7,2.2
+		l-1.8,5.4l4.6-3.4c0.7-0.5,1.6-0.5,2.2,0l4.6,3.3l-1.8-5.4c-0.3-0.8,0-1.6,0.7-2.1l4.6-3.3h-5.7c-0.8,0-1.5-0.6-1.8-1.3L108.4,99z
+		 M103.6,102l3.1-9.6c0.6-1.7,3-1.7,3.6,0l3.1,9.6h10c2-0.1,2.7,2.3,1.2,3.4l-8.2,5.9l3.1,9.6l0,0c0.6,1.7-1.4,3.1-2.9,2.1l-8.2-6
+		l-8.1,5.9c-1.6,1.2-3.5-0.3-3-2l3.1-9.6l-8.2-5.9c-1.5-1.1-0.7-3.4,1.1-3.4H103.6z M108.4,181.5l-1.8,5.4c-0.3,0.8-1,1.3-1.9,1.3
+		h-5.6l4.6,3.3c0.7,0.5,0.9,1.4,0.7,2.2l-1.8,5.4l4.6-3.4c0.7-0.5,1.6-0.5,2.2,0l4.6,3.3l-1.8-5.4c-0.3-0.8,0-1.6,0.7-2.1l4.6-3.3
+		h-5.7c-0.8,0-1.5-0.5-1.8-1.3L108.4,181.5z M103.6,184.5l3.1-9.6c0.6-1.7,3-1.7,3.6,0l3.1,9.6h10c2-0.1,2.7,2.3,1.2,3.4l-8.2,5.9
+		l3.1,9.6c0.6,1.7-1.4,3.1-2.9,2.1l-8.2-6l-8.1,5.9c-1.6,1.2-3.5-0.3-3-2l3.1-9.6l-8.2-5.9c-1.5-1.1-0.7-3.4,1.1-3.4H103.6z
+		 M108.4,140.3l-1.8,5.4c-0.3,0.8-1,1.3-1.9,1.3h-5.6l4.6,3.3c0.7,0.5,0.9,1.4,0.7,2.2l-1.8,5.4l4.6-3.4c0.7-0.5,1.6-0.5,2.2,0
+		l4.6,3.3l-1.8-5.4c-0.3-0.8,0-1.6,0.7-2.1l4.6-3.3h-5.7c-0.8,0-1.5-0.6-1.8-1.3L108.4,140.3z M103.6,143.3l3.1-9.6
+		c0.6-1.7,3-1.7,3.6,0l3.1,9.6h10c2-0.1,2.7,2.3,1.2,3.4l-8.2,5.9l3.1,9.6c0.6,1.7-1.4,3.1-2.9,2.1l-8.2-6l-8.1,5.9
+		c-1.6,1.2-3.5-0.3-3-2l3.1-9.6l-8.2-5.9c-1.5-1.1-0.7-3.4,1.1-3.4H103.6z M213.5,254.5c-0.6-0.8-0.4-2,0.4-2.6s2-0.4,2.6,0.4
+		l6.7,9.1l16.4-20.2c0.6-0.8,1.8-0.9,2.6-0.3c0.8,0.6,0.9,1.8,0.3,2.6l-17.9,22c-0.8,1-2.2,1-3,0L213.5,254.5z M206.2,231.3h14.3
+		v-11.5h-14.3c-1,0-1.9-0.8-1.9-1.9v-43.6c0-1,0.8-1.9,1.9-1.9h14.3v-11.5h-14.3c-1,0-1.9-0.8-1.9-1.9v-43.7c0-1,0.8-1.9,1.9-1.9
+		h14.3V73.6H191v3.6c0,1-0.8,1.9-1.9,1.9h-76c-1,0-1.9-0.8-1.9-1.9v-3.6H81.7v181.3h122.5V233C204.3,232.2,205.2,231.3,206.2,231.3
+		L206.2,231.3z M224.2,231.3h6.4v-11.5h-6.4V231.3z M234.4,231.3h15.5c1,0,1.9,0.8,1.9,1.9v43.7c0,1-0.8,1.9-1.9,1.9h-43.7
+		c-1,0-1.9-0.8-1.9-1.9v-8H69.8c-1,0-1.9-0.8-1.9-1.9V61.7c0-1,0.8-1.9,1.9-1.9h41.5V56c0-1,0.8-1.9,1.9-1.9h17v-11
+		c0-1,0.8-1.9,1.9-1.9h38.4c1,0,1.9,0.8,1.9,1.9v11h17c1,0,1.9,0.8,1.9,1.9v3.7h41.5c1,0,1.9,0.8,1.9,1.9v51.7h15.5
+		c1,0,1.9,0.8,1.9,1.9V159c0,1-0.8,1.9-1.9,1.9h-15.8v11.5h15.5c1,0,1.9,0.8,1.9,1.9V218c0,1-0.8,1.9-1.9,1.9h-15.5V231.3z
+		 M204.3,265.2v-6.4H79.9c-1,0-1.9-0.8-1.9-1.9v-185c0-1,0.8-1.9,1.9-1.9h31.3v-6.4H71.6v201.6L204.3,265.2z M248,235h-40v40h40V235
+		z M213.5,195.5c-0.6-0.8-0.4-2,0.4-2.6s2-0.4,2.6,0.4l6.7,9.1l16.4-20.2c0.6-0.8,1.8-0.9,2.6-0.3c0.8,0.6,0.9,1.8,0.3,2.6l-17.9,22
+		c-0.8,1-2.2,1-3,0L213.5,195.5z M224.2,172.3h6.4v-11.5h-6.4V172.3z M248,176h-40v40h40V176z M213.5,136.7c-0.6-0.8-0.4-2,0.4-2.6
+		s2-0.4,2.6,0.4l6.7,9.1l16.4-20.2c0.6-0.8,1.8-0.9,2.6-0.3c0.8,0.6,0.9,1.8,0.3,2.6l-17.9,22c-0.8,1-2.2,1-3,0L213.5,136.7z
+		 M224.2,113.5h6.4V63.7H191v6.4h31.3c1,0,1.9,0.8,1.9,1.9L224.2,113.5L224.2,113.5z M248,117.2h-40v40h40V117.2z M131.9,58h-17
+		v17.4h72.3V58h-17c-1,0-1.9-0.8-1.9-1.9V45h-34.7v11C133.8,57.2,133,58,131.9,58L131.9,58z"/>
 </g>
 </svg>

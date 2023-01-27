@@ -13,7 +13,6 @@ module.exports = {
       transparent: "transparent",
     },
     extend: {
-      fontFamily: { graphik: "var(--font-graphik)" },
       keyframes: {
         slideUp: {
           from: { top: "100%" },

@@ -1,8 +1,10 @@
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import Head from "next/head";
+import Image from "next/image";
 import { useState } from "react";
 
+import home from "../../public/home.jpg";
 export default function ContactUs() {
   const [formdata, setFormdata] = useState("");
   const [text, setText] = useState("LALAL");
@@ -39,8 +41,8 @@ export default function ContactUs() {
         </p>
       </main>
         <div className="mt-[5%] p-[1%] flex flex-col gap-10 md:flex-row z-10 justify-between mx-[10%] bg-blue rounded-lg">
-        <img
-            src="/home.jpg"
+        <Image
+            src={home}
             className="object-cover md:w-1/3 w-full min-h-full rounded-lg"
           />
           <form
