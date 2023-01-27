@@ -239,7 +239,7 @@ export default function services() {
             </div>
 
             <Image
-              className="w-auto min-h-full object-cover py-[5%] md:w-[40%]"
+              className="w-auto min-h-full object-contain py-[5%] md:w-[40%]"
               src={Service_b}
             />
           </div>

@@ -43,7 +43,7 @@ export default function ContactUs() {
         <div className="mt-[5%] p-[1%] flex flex-col gap-10 md:flex-row z-10 justify-between mx-[10%] bg-blue rounded-lg">
         <Image
             src={home}
-            className="object-cover md:w-1/3 w-full min-h-full rounded-lg"
+            className="object-contain md:w-1/3 w-full min-h-full rounded-lg"
           />
           <form
             action="#"

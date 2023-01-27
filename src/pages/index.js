@@ -83,8 +83,8 @@ export default function Home() {
               organization to succeed and grow!.
             </p>
           </div>
-          <div className="w-full md:w-1/2">
-            <Image src={Herob} className="h-full object-cover"  />
+          <div className="w-full md:w-3/5">
+            <Image src={Herob} className="object-contain w-full h-full"  />
           </div>
         </div>
         <section className="pt-[10%]">
