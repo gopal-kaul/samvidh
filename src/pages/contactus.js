@@ -1,3 +1,4 @@
+import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import Head from "next/head";
 import { useState } from "react";
@@ -90,5 +91,5 @@ export default function ContactUs() {
 }
 
 ContactUs.getLayout = function getLayout(page){
-  return <><Navbar />{page}</>
+  return <><Navbar />{page}<Footer /></>
 }
