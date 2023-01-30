@@ -203,7 +203,7 @@ export default function services() {
           <h2 className="text-[30px] font-semibold leading-tight text-center">
             Experience excellence with Mulesoft services from Samvidh
           </h2>
-          <div className="pt-[5%] flex flex-col md:flex-row gap-10">
+          <div className="pt-[5%] flex flex-col md:flex-row gap-1 md:gap-10">
             <div className=" w-full md:w-[50%]">
               <p className="text-[25px] leading-tight">
                 Here at Samvidh, we&#x27;ve been working with Salesforce for
@@ -237,16 +237,15 @@ export default function services() {
                 <br />
               </p>
             </div>
-
             <Image
               className="w-auto min-h-full object-contain py-[5%] md:w-[40%]"
               src={Service_b}
             />
           </div>
-
+<div className="grid place-items-center md:place-items-start">
           <a href="#" className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl">
             TALK WITH US TODAY
-          </a>
+          </a></div>
         </section>
       </main>
 
