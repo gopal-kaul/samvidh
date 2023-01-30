@@ -26,7 +26,7 @@ export default function Home() {
       </Head>
       <main className="px-[10%] font-graphik pt-[3%]">
         <div className="flex flex-col md:flex-row gap-0 md:gap-20">
-          <div className="relative overflow-clip md:w-2/4 w-full">
+          <div className="relative overflow-clip md:w-2/4 w-full -ml-[5%] md:ml-0">
             <Image src={person} className="w-full h-auto invisible" />
             <div className="w-full h-[80%] absolute top-[100%] left-0 -z-10 animate-slideFast" />
             <Image
