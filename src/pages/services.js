@@ -37,7 +37,10 @@ export default function services() {
             and processes, and creating seamless digital experiences — all on a
             single, easy-to-use platform.
           </p>
-          <a href="#" className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl">
+          <a
+            href="#"
+            className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
+          >
             Explore
           </a>
         </section>
@@ -51,8 +54,8 @@ export default function services() {
           Firstly, IT departments are often the most in demand function within a
           business. Finding the time to focus on the important projects, the
           projects that will{" "}
-          <span className="font-bold">really push your business forward</span> can
-          be difficult. Automation and integration can solve most of your
+          <span className="font-bold">really push your business forward</span>{" "}
+          can be difficult. Automation and integration can solve most of your
           complex IT issues, and Mulesoft is a powerhouse for automating and
           simplifying workflows. <br /> <br />
           Mulesoft is a company that provides tools and services for integration
@@ -95,8 +98,8 @@ export default function services() {
             <div className="w-full md:w-1/2">
               <p className="pt-[5%] text-[25px] leading-tight">
                 Mulesoft&#x27;s integration platform,{" "}
-                <span className="font-bold">Anypoint Platform,</span> can be used to
-                connect and integrate Salesforce with other systems,
+                <span className="font-bold">Anypoint Platform,</span> can be
+                used to connect and integrate Salesforce with other systems,
                 applications, and platforms. This allows organizations to
                 exchange data and functionality between Salesforce and other
                 systems in a seamless and automated way.
@@ -242,10 +245,14 @@ export default function services() {
               src={Service_b}
             />
           </div>
-<div className="grid place-items-center md:place-items-start">
-          <a href="#" className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl">
-            TALK WITH US TODAY
-          </a></div>
+          <div className="grid place-items-center md:place-items-start">
+            <a
+              href="#"
+              className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
+            >
+              TALK WITH US TODAY
+            </a>
+          </div>
         </section>
       </main>
 
@@ -324,7 +331,10 @@ export default function services() {
           business reach new heights.
         </p>
         <div className="grid place-items-center pt-[5%]">
-          <a href="#" className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl">
+          <a
+            href="#"
+            className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
+          >
             Connect now
           </a>
         </div>
