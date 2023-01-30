@@ -36,7 +36,8 @@ export default function Home() {
           </div>
           <div className="animate-slideContent translate-y-[20%] w-full md:w-2/4 flex flex-col py-[10%] space-y-10">
             <h2 className="text-[48px] font-semibold leading-tight">
-              The Experts in <span className="text-blue">Mulesoft</span> Integration
+              The Experts in <span className="text-blue">Mulesoft</span>{" "}
+              Integration
             </h2>
             <p className="pt-[10%] pb-[15%] md:py-0 text-[24px] leading-normal">
               Samvidh is the premier choice for Mulesoft services, offering a
@@ -52,12 +53,11 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <div className="flex flex-col md:flex-row justify-between gap-10 pt-[10%]">
-          <div className="w-full md:w-2/5">
-            <h2 className="text-[30px] font-semibold leading-tight">
-              Welcome to the future of your Mulesoft SOA, SaaS, and APIs
-              integration
-            </h2>
+        <h2 className="text-[30px] font-semibold leading-tight pt-[10%]">
+          Welcome to the future of your Mulesoft SOA, SaaS, and APIs integration
+        </h2>
+        <div className="flex flex-col md:flex-row justify-between gap-10">
+          <div className="w-full md:w-1/2">
             <p className="pt-[5%] text-[20px] leading-tight">
               <span className="font-bold">
                 Samvidh is the go-to Mulesoft expert.
@@ -83,8 +83,8 @@ export default function Home() {
               organization to succeed and grow!.
             </p>
           </div>
-          <div className="w-full md:w-3/5">
-            <Image src={Herob} className="object-contain w-full h-full"  />
+          <div className="w-full md:w-1/2">
+            <Image src={Herob} className="object-contain w-full h-full" />
           </div>
         </div>
         <section className="pt-[10%]">
@@ -229,7 +229,7 @@ export default function Home() {
           <img src="/home.jpg" />
         </div>
       </section> */}
-      <div className="px-[10%]">
+      {/* <div className="px-[10%]">
         <section className="pt-[5%]">
           <h2 className="text-[30px] font-semibold leading-tight text-center">
             Our customers know us best
@@ -272,15 +272,15 @@ export default function Home() {
             <Image src={home} className="w-1/2" />
           </div>
         </section>
-      </div>
-        <section className="bg-black mt-[5%] w-full flex flex-col md:flex-row px-[5%] gap-x-10 py-[5%] justify-center -mb-[10%]">
-          <h2 className="text-white font-bold text-center md:text-start text-[30px]">
-            Let&apos;s build a solution for your needs
-          </h2>
-          <button className="bg-gradient-to-l px-10 py-2 from-blue to-blue text-white transition-shadow duration-500 ease-in-out hover:shadow-2xl hover:shadow-white">
-            Get Started
-          </button>
-        </section>
+      </div> */}
+      <section className="bg-black w-full flex flex-col md:flex-row px-[5%] gap-x-10 py-[5%] justify-center -mb-[10%]">
+        <h2 className="text-white font-bold text-center md:text-start text-[30px]">
+          Let&apos;s build a solution for your needs
+        </h2>
+        <button className="bg-gradient-to-l px-10 py-2 from-blue to-blue text-white transition-shadow duration-500 ease-in-out hover:shadow-2xl hover:shadow-white">
+          Get Started
+        </button>
+      </section>
     </>
   );
 }
