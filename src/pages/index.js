@@ -12,10 +12,10 @@ import Service08 from "../../public/Service-08.svg";
 import Service09 from "../../public/Service-09.svg";
 import Service10 from "../../public/Service-10.svg";
 import Service11 from "../../public/Service-11.svg";
-import "swiper/css";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination } from "swiper";
-import "swiper/css/pagination";
+// import "swiper/css";
+// import { Swiper, SwiperSlide } from "swiper/react";
+// import { Pagination } from "swiper";
+// import "swiper/css/pagination";
 export default function Home() {
   return (
     <>
@@ -25,7 +25,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main className="px-[10%] font-graphik pt-[3%]">
-        <div className="flex flex-col md:flex-row gap-20">
+        <div className="flex flex-col md:flex-row gap-0 md:gap-20">
           <div className="relative overflow-clip md:w-2/4 w-full">
             <Image src={person} className="w-full h-auto invisible" />
             <div className="w-full h-[80%] absolute top-[100%] left-0 -z-10 animate-slideFast" />
@@ -53,7 +53,9 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <h2 className="text-[30px] font-semibold leading-tight pt-[10%]">
+      </main>
+      <div className="py-[10%] mt-[5%] md:pt-[5%] md:pb-0 bg-grey md:bg-white px-[10%]">
+        <h2 className="text-[30px] font-semibold leading-tight">
           Welcome to the future of your Mulesoft SOA, SaaS, and APIs integration
         </h2>
         <div className="flex flex-col md:flex-row justify-between gap-10">
@@ -87,6 +89,8 @@ export default function Home() {
             <Image src={Herob} className="object-contain w-full h-full" />
           </div>
         </div>
+      </div>
+      <div className="px-[10%]">
         <section className="pt-[10%]">
           <h2 className="text-[30px] pt-[5%] font-semibold leading-tight">
             Your organization deserves to work with the Best
@@ -129,91 +133,93 @@ export default function Home() {
             </div>
           </div>
         </section>
-        <section className="py-[10%]">
-          <h2 className="text-[30px] font-semibold leading-tight text-center md:px-[10%]">
-            Why you should be using Mulesoft Integration services
-          </h2>
-          <p className="text-center md:px-[10%] text-[20px] pt-[5%]">
-            Mulesoft is a powerhouse for integration and API services, but
-            it&apos;s also much more than that. Below we&apos;ve compiled some
-            great reasons your organization should be using Mulesoft.
-          </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10 pt-[5%]">
-            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <Image src={Service06} className="w-1/2" />
-              <h3 className="font-bold ">Improved efficiency</h3>
-              <p className="md:px-[10%]">
-                Mulesoft can help a company integrate their systems and data,
-                enabling them to automate processes and eliminate manual work.
-                This can lead to increased efficiency and productivity across
-                the organization.
-              </p>
-            </div>
-            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <Image src={Service07} className="w-1/2" />
-              <h3 className="font-bold">Enhanced agility</h3>
-              <p className="md:px-[10%]">
-                Mulesoft&apos;s integration platform is designed to be flexible
-                and adaptable, allowing a company to quickly and easily connect
-                new systems and applications as their business needs evolve.
-                This can help a company be more agile and responsive to change.
-              </p>
-            </div>
-            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <Image src={Service08} className="w-1/2" />
-              <h3 className="font-bold">Increased revenue</h3>
-              <p className="md:px-[10%]">
-                By exposing data and functionality through APIs, a company can
-                create new business opportunities and revenue streams. For
-                example, it might create a developer portal and allow external
-                developers to access their data and build new applications on
-                top of it.
-              </p>
-            </div>
-            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <Image src={Service09} className="w-1/2" />
-              <h3 className="font-bold"> Better customer experience</h3>
-              <p className="md:px-[10%]">
-                By integrating customer-facing systems and applications, a
-                company can provide a more seamless and consistent experience
-                for their customers. This can lead to increased customer
-                satisfaction and loyalty.
-              </p>
-            </div>
-            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <Image src={Service10} className="w-1/2" />
-              <h3 className="font-bold">Improved data quality</h3>
-              <p className="md:px-[10%]">
-                By integrating systems, a company can ensure that their data is
-                consistent and accurate across the organization. This can
-                improve decision-making and drive better business outcomes.
-              </p>
-            </div>
-            <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
-              <Image src={Service11} className="w-1/2" />
-              <h3 className="font-bold">Reduced risk</h3>
-              <p className="md:px-[10%]">
-                By centralizing and standardizing integration, a company can
-                reduce the risk of errors and downtime, improving the
-                reliability and stability of their systems.{" "}
-              </p>
-            </div>
+      </div>
+      <div className="py-[10%] mt-[5%] md:pt-[5%] md:pb-0 bg-grey md:bg-white px-[10%]">
+        <h2 className="text-[30px] font-semibold leading-tight text-center md:px-[10%]">
+          Why you should be using Mulesoft Integration services
+        </h2>
+        <p className="text-center md:px-[10%] text-[20px] pt-[5%]">
+          Mulesoft is a powerhouse for integration and API services, but
+          it&apos;s also much more than that. Below we&apos;ve compiled some
+          great reasons your organization should be using Mulesoft.
+        </p>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-start place-content-center gap-10 pt-[5%]">
+          <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
+            <Image src={Service06} className="w-1/2" />
+            <h3 className="font-bold ">Improved efficiency</h3>
+            <p className="md:px-[10%]">
+              Mulesoft can help a company integrate their systems and data,
+              enabling them to automate processes and eliminate manual work.
+              This can lead to increased efficiency and productivity across the
+              organization.
+            </p>
           </div>
-          <p className="pt-[5%] pb-[3%] md:px-[20%] text-center text-[20px] leading-tight">
-            Overall, Mulesoft can help your organization become more efficient,
-            agile, and innovative, driving success and growth in the digital
-            age, and we&apos;ve got the skills to get you there.
-          </p>
-          <div className="grid place-items-center">
-            <a
-              href="#"
-              className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
-            >
-              Book a call
-            </a>
+          <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
+            <Image src={Service07} className="w-1/2" />
+            <h3 className="font-bold">Enhanced agility</h3>
+            <p className="md:px-[10%]">
+              Mulesoft&apos;s integration platform is designed to be flexible
+              and adaptable, allowing a company to quickly and easily connect
+              new systems and applications as their business needs evolve. This
+              can help a company be more agile and responsive to change.
+            </p>
           </div>
-        </section>
-      </main>
+          <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
+            <Image src={Service08} className="w-1/2" />
+            <h3 className="font-bold">Increased revenue</h3>
+            <p className="md:px-[10%]">
+              By exposing data and functionality through APIs, a company can
+              create new business opportunities and revenue streams. For
+              example, it might create a developer portal and allow external
+              developers to access their data and build new applications on top
+              of it.
+            </p>
+          </div>
+          <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
+            <Image src={Service09} className="w-1/2" />
+            <h3 className="font-bold"> Better customer experience</h3>
+            <p className="md:px-[10%]">
+              By integrating customer-facing systems and applications, a company
+              can provide a more seamless and consistent experience for their
+              customers. This can lead to increased customer satisfaction and
+              loyalty.
+            </p>
+          </div>
+          <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
+            <Image src={Service10} className="w-1/2" />
+            <h3 className="font-bold">Improved data quality</h3>
+            <p className="md:px-[10%]">
+              By integrating systems, a company can ensure that their data is
+              consistent and accurate across the organization. This can improve
+              decision-making and drive better business outcomes.
+            </p>
+          </div>
+          <div className="space-y-[3%] flex flex-col items-center text-center text-[16px] leading-tight">
+            <Image src={Service11} className="w-1/2" />
+            <h3 className="font-bold">Reduced risk</h3>
+            <p className="md:px-[10%]">
+              By centralizing and standardizing integration, a company can
+              reduce the risk of errors and downtime, improving the reliability
+              and stability of their systems.{" "}
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="px-[10%] pb-[10%] md:pb-[5%]">
+        <p className="pt-[5%] pb-[3%] md:px-[20%] text-center text-[20px] leading-tight">
+          Overall, Mulesoft can help your organization become more efficient,
+          agile, and innovative, driving success and growth in the digital age,
+          and we&apos;ve got the skills to get you there.
+        </p>
+        <div className="grid place-items-center">
+          <a
+            href="#"
+            className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
+          >
+            Book a call
+          </a>
+        </div>
+      </div>
       {/* <section className="mt-[5%] py-[5%] mb-[5%] bg-[#f7f7f7] px-[10%]">
         <h2 className="text-[30px] font-semibold leading-tight text-end">
           Partners and certifications
@@ -273,7 +279,7 @@ export default function Home() {
           </div>
         </section>
       </div> */}
-      <section className="bg-black w-full flex flex-col md:flex-row px-[5%] gap-x-10 py-[5%] justify-center -mb-[10%]">
+      <section className="bg-black w-full flex flex-col md:flex-row px-[5%] gap-x-10 gap-y-10 py-[5%] justify-center -mb-[10%]">
         <h2 className="text-white font-bold text-center md:text-start text-[30px]">
           Let&apos;s build a solution for your needs
         </h2>
