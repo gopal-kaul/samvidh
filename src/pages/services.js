@@ -26,12 +26,12 @@ export default function services() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main className="px-[10%] font-graphik py-[5%]">
-        <section className="text-center animate-slideContent translate-y-[20%]">
+        <section className="text-center animate-slideContent translate-y-[20%] py-[10%] md:py-0">
           <h1 className="text-[48px] font-semibold leading-tight">
             Automate your routine work and integrate systems to free up time and
             move your company forward
           </h1>
-          <p className="pt-[1%] pb-[10%] md:pb-[3%] md:px-[10%] text-[24px] leading-tight">
+          <p className=" pt-[4%] md:pt-[1%] pb-[10%] md:pb-[3%] md:px-[10%] text-[24px] leading-tight">
             MuleSoft will give your IT team the tools to automate everything and
             anything. Handle integrating data and systems, automating workflows
             and processes, and creating seamless digital experiences — all on a
@@ -255,7 +255,7 @@ export default function services() {
           Customized Mulesoft solutions and exceptional results — our formula
           for happy clients
         </h2>
-        <p className="pt-[3%] md:px-[10%] text-[20px] leading-tight text-center">
+        <p className="pt-[3%] md:px-[10%] text-[20px] leading-tight text-center px-[5%]">
           &quot;I have been working with Samvidh for the past year and they have
           consistently exceeded my expectations. Their customized Mulesoft
           solutions have greatly improved the efficiency of my business and I am
@@ -271,7 +271,7 @@ export default function services() {
           Personalized Expert solutions with Samvidh
         </h2>
 
-        <ul className="text-[20px] pt-[5%] flex flex-row flex-wrap gap-20 justify-center items-center">
+        <ul className="text-[20px] pt-[5%] flex flex-row flex-wrap gap-20 justify-center items-center text-center">
           <li className="flex flex-col items-center">
             <Image src={Service_17} />
             <p>Extensive industry-specific experience</p>
@@ -318,7 +318,7 @@ export default function services() {
         <h2 className="text-[48px] font-semibold leading-tight text-center">
           Let&#x27;s push your Mulesoft and Salesforce output to new heights
         </h2>
-        <p className="pt-[5%] md:px-[10%] text-[20px] leading-tight text-center">
+        <p className="pt-[5%] md:px-[10%] text-[20px] leading-tight text-center pb-[5%] md:pb-0">
           We are passionate about delivering top-quality MuleSoft and Salesforce
           solutions. With a collaborative, transparent approach and a proven
           track record of success, Samvidh is the perfect partner to help your
