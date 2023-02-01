@@ -17,7 +17,7 @@ import Service_23 from "../../public/Service-23.svg";
 import Service_24 from "../../public/Service-24.svg";
 import Service_25 from "../../public/Service-25.svg";
 import Service_26 from "../../public/Service-26.svg";
-export default function services() {
+export default function Services() {
   return (
     <>
       <Head>
@@ -37,15 +37,22 @@ export default function services() {
             and processes, and creating seamless digital experiences — all on a
             single, easy-to-use platform.
           </p>
-          <a
-            href="#"
+            <button
+              onClick={() => {
+                window.scrollTo({
+                  top:
+                    document.querySelector("#content").getBoundingClientRect()
+                      .top - document.querySelector("nav").clientHeight,
+                  behavior: "smooth",
+                });
+              }}
             className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
           >
             Explore
-          </a>
+          </button>
         </section>
       </main>
-      <section className="py-[5%] bg-grey px-[10%]">
+      <section id="content" className="py-[5%] bg-grey px-[10%]">
         <h2 className="text-[30px] pt-[5%] font-semibold leading-tight">
           Discover the power of Mulesoft: the leading integration and API
           management platform
@@ -104,7 +111,7 @@ export default function services() {
                 exchange data and functionality between Salesforce and other
                 systems in a seamless and automated way.
               </p>
-              <p className="pt-[5%] text-[20px] leading-tight">
+              <p className="py-[5%] text-[20px] leading-tight">
                 For example, an organization might use the Anypoint Platform to
                 synchronize customer data between Salesforce and its ERP
                 (Enterprise resource planning) system, so that whenever a new
@@ -247,7 +254,7 @@ export default function services() {
           </div>
           <div className="grid place-items-center md:place-items-start">
             <a
-              href="#"
+              href="https://samvidhtech.com/contactus."
               className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
             >
               TALK WITH US TODAY
@@ -255,8 +262,52 @@ export default function services() {
           </div>
         </section>
       </main>
-
-      <section className="mt-[10%] py-[5%] bg-blue/75 text-white">
+      <section class="bg-grey mt-[5%] py-[5%]">
+      <h2
+        class="text-center text-[30px] pb-20 md:pb-40 font-bold"
+      >
+        Our Offerings
+      </h2>
+      <div
+        class="flex flex-col md:flex-row justify-evenly gap-y-[10vw] md:gap-[5%] px-[15%]"
+      >
+        <div class="w-full md:w-1/2 relative">
+          <img src="/officeperson1.jpg" class="object-contain" />
+          <div
+            class="absolute bottom-0 w-full h-[30%] bg-white/75 flex flex-row items-center justify-between"
+          >
+            <div class="text-center w-full">
+              <p class="text-[25px] font-semibold md:font-normal">
+                Managed Services
+              </p>
+            </div>
+            <a
+              href="https://samvidhtech.com/managed.html"
+              class="h-full sm:h-auto flex items-center justify-center py-1.5 px-4 lg:py-3 lg:px-8 bg-blue text-white shrink-0"
+              >Learn More</a
+            >
+          </div>
+        </div>
+        <div class="w-full md:w-1/2 relative">
+          <img src="/officeperson2.jpg" class="object-contain" />
+          <div
+            class="absolute bottom-0 w-full h-[30%] bg-white/75 flex flex-row items-center justify-between"
+          >
+            <div class="text-center w-full">
+              <p class="text-[25px] font-semibold md:font-normal">
+                Advisory Services
+              </p>
+            </div>
+            <a
+              href="https://samvidhtech.com/advisory.html"
+              class="h-full sm:h-auto flex items-center justify-center py-1.5 px-4 lg:py-3 lg:px-8 bg-blue text-white shrink-0"
+              >Learn More</a
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+      <section className="py-[5%] bg-blue/75 text-white">
         <h2 className="text-[48px] font-semibold leading-tight text-center md:px-[10%]">
           Customized Mulesoft solutions and exceptional results — our formula
           for happy clients
@@ -324,6 +375,7 @@ export default function services() {
         <h2 className="text-[48px] font-semibold leading-tight text-center">
           Let&#x27;s push your Mulesoft and Salesforce output to new heights
         </h2>
+        
         <p className="pt-[5%] md:px-[10%] text-[20px] leading-tight text-center pb-[5%] md:pb-0">
           We are passionate about delivering top-quality MuleSoft and Salesforce
           solutions. With a collaborative, transparent approach and a proven
@@ -332,17 +384,17 @@ export default function services() {
         </p>
         <div className="grid place-items-center pt-[5%]">
           <a
-            href="#"
+            href="https://samvidhtech.com"
             className="uppercase bg-blue text-white px-10 py-5 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
           >
-            Connect now
+            Discover Samvidh
           </a>
         </div>
       </section>
     </>
   );
 }
-services.getLayout = function getLayout(page) {
+Services.getLayout = function getLayout(page) {
   return (
     <>
       <Navbar />

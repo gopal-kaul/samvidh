@@ -24,7 +24,7 @@ export default function Home() {
         <meta name="description" content="Samvidh" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      <main className="px-[10%] font-graphik pt-[3%]">
+      <main className="px-[10%] font-graphik pt-[3%] scroll-smooth">
         <div className="flex flex-col md:flex-row gap-0 md:gap-20">
           <div className="relative overflow-clip md:w-2/4 w-full -ml-[5%] md:ml-0">
             <Image src={person} className="w-full h-auto invisible" />
@@ -45,16 +45,26 @@ export default function Home() {
               that will help you to transform your business and drive digital
               innovation.
             </p>
-            <a
-              href="#"
+            <button
+              onClick={() => {
+                window.scrollTo({
+                  top:
+                    document.querySelector("#content").getBoundingClientRect()
+                      .top - document.querySelector("nav").clientHeight,
+                  behavior: "smooth",
+                });
+              }}
               className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
             >
-              Take A Tour
-            </a>
+              Know More
+            </button>
           </div>
         </div>
       </main>
-      <div className="py-[10%] mt-[5%] md:pt-[5%] md:pb-0 bg-grey md:bg-white px-[10%]">
+      <div
+        id="content"
+        className="my-[10%] mt-[5%] md:pt-[5%] md:pb-0 bg-grey md:bg-white px-[10%]"
+      >
         <h2 className="text-[30px] font-semibold leading-tight">
           Welcome to the future of your Mulesoft SOA, SaaS, and APIs integration
         </h2>
@@ -206,19 +216,11 @@ export default function Home() {
         </div>
       </div>
       <div className="px-[10%] pb-[10%] md:pb-[5%]">
-        <p className="pt-[5%] pb-[3%] md:px-[20%] text-center text-[20px] leading-tight">
+        <p className="pt-[5%] md:px-[20%] text-center text-[20px] leading-tight">
           Overall, Mulesoft can help your organization become more efficient,
           agile, and innovative, driving success and growth in the digital age,
           and we&apos;ve got the skills to get you there.
         </p>
-        <div className="grid place-items-center">
-          <a
-            href="#"
-            className="uppercase bg-gradient-to-l from-blue to-blue text-white px-16 py-3 w-fit transition-shadow duration-500 ease-in-out hover:shadow-2xl"
-          >
-            Book a call
-          </a>
-        </div>
       </div>
       {/* <section className="mt-[5%] py-[5%] mb-[5%] bg-[#f7f7f7] px-[10%]">
         <h2 className="text-[30px] font-semibold leading-tight text-end">
@@ -279,13 +281,23 @@ export default function Home() {
           </div>
         </section>
       </div> */}
-      <section className="bg-black w-full flex flex-col md:flex-row px-[5%] gap-x-10 gap-y-10 py-[5%] justify-center -mb-[10%]">
-        <h2 className="text-white font-bold text-center md:text-start text-[30px]">
-          Let&apos;s build a solution for your needs
-        </h2>
-        <button className="bg-gradient-to-l px-10 py-2 from-blue to-blue text-white transition-shadow duration-500 ease-in-out hover:shadow-2xl hover:shadow-white">
-          Get Started
-        </button>
+      <section class="bg-[url('/book-bg.svg')] bg-no-repeat bg-cover h-max py-20 flex flex-col md:flex-row w-full px-[10%] -mb-[10%] text-center md:text-start">
+        <div class="w-full md:w-3/5 md:text-end text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-white font-semibold">
+          <p>
+            Book a <span class="md:hidden pb-4">Discovery Session</span>
+          </p>
+          <p class="hidden md:block md:pt-2 md:text-4xl lg:text-5xl xl:text-6xl">
+            Discovery Session
+          </p>
+        </div>
+        <div class="flex items-center justify-center w-full pt-4 md:pt-0 md:w-2/5 mt-2 gap-y-10">
+          <a
+            href="https://samvidhtech.com/contactus.php"
+            class="px-8 py-2 rounded-full bg-white text-2xl flex flex-row items-center gap-4"
+          >
+            Book Here →
+          </a>
+        </div>
       </section>
     </>
   );
