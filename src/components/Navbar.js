@@ -21,8 +21,13 @@ export default function Navbar() {
   const [isOpen, setisOpen] = useState(false);
   return (
     <div className="sticky z-10 top-0 group font-graphik">
-      <nav
+      {/* <nav
         className={`flex flex-row items-center justify-between px-[10%] py-[2%] group-hover:text-white transition-colors duration-500 ease-in-out relative z-10 ${
+          isOpen || !isTop ? "bg-white" : ""
+        }`}
+      > */}
+      <nav
+        className={`flex flex-row items-center justify-between px-[10%] py-[2%] relative z-10 ${
           isOpen || !isTop ? "bg-white" : ""
         }`}
       >
@@ -42,10 +47,15 @@ export default function Navbar() {
           <div className="w-8 h-1 bg-black/75"></div>
           <div className="w-8 h-1 bg-black/75"></div>
         </div>
-        <ul
+        {/* <ul
           className={`md:hidden uppercase absolute left-0 top-[100%] ${
             isOpen ? "bg-white flex" : ""
           } w-full pl-[10%] pb-[5%] transition-colors duration-500 text-black`}
+        > */}
+        <ul
+          className={`md:hidden uppercase absolute left-0 top-[100%] ${
+            isOpen ? "bg-white flex" : ""
+          } w-full pl-[10%] pb-[5%] text-black`}
         >
           <div
             className={`${
@@ -56,10 +66,13 @@ export default function Navbar() {
               <ActiveLink href="/">Home</ActiveLink>
             </li>
             <li>
+              <ActiveLink href="https://samvidhtech.com/">Samvidh</ActiveLink>
+            </li>
+            <li>
               <ActiveLink href="/services">Services</ActiveLink>
             </li>
             <li>
-            <a href="https://samvidhtech.com/contactus.php">Contact</a>
+              <a href="https://samvidhtech.com/contactus.php">Contact</a>
             </li>
           </div>
         </ul>
@@ -68,13 +81,16 @@ export default function Navbar() {
             <ActiveLink href="/">Home</ActiveLink>
           </li>
           <li>
+            <ActiveLink href="https://samvidhtech.com/">Samvidh</ActiveLink>
+          </li>
+          <li>
             <ActiveLink href="/services">Services</ActiveLink>
           </li>
           <li>
             <a href="https://samvidhtech.com/contactus.php">Contact</a>
           </li>
         </ul>
-        <div className="absolute top-0 left-0 -translate-x-full md:group-hover:translate-x-0 w-full md:bg-black h-full -z-10 transition-transform duration-500 ease-in-out"></div>
+        {/* <div className="absolute top-0 left-0 -translate-x-full md:group-hover:translate-x-0 w-full md:bg-black h-full -z-10 transition-transform duration-500 ease-in-out"></div> */}
       </nav>
     </div>
   );
